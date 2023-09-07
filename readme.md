@@ -1,10 +1,25 @@
 # SkillScanner: Detecting Policy-Violating Voice Applications Through Static Analysis at the Development Phase
-## Abstract
-The Amazon Alexa marketplace is the largest Voice Personal Assistant (VPA) platform with over 100,000 voice applications (i.e., skills) published to the skills store. In an effort to maintain the quality and trustworthiness of voice-apps, Amazon Alexa has implemented a set of policy requirements to be adhered to by third-party skill developers. However, recent works reveal the prevalence of policy-violating skills in the current skills store. To understand the causes of policy violations in skills, we first conduct a user study with 34 third-party skill developers focusing on whether they are aware of the various policy requirements defined by the Amazon Alexa platform. Our user study results show that there is a notable gap between VPA’s policy requirements and skill developers’ practices. As a result, it is inevitable that policy-violating skills will be published.
-
-To prevent the inflow of new policy-breaking skills to the skills store from the source, it is critical to identify potential policy violations at the development phase. In this work, we design and develop SkillScanner , an efficient static code analysis tool to facilitate third-party developers to detect policy violations early in the skill devel- opment lifecycle. To evaluate the performance of SkillScanner, we conducted an empirical study on 2,451 open source skills collected from GitHub. SkillScanner effectively identified 1,328 different policy violations from 786 skills. Our results suggest that 32% of these policy violations are introduced through code duplication (i.e., code copy and paste). In particular, we found that 42 skill code examples from Alexa’s official accounts contain policy violations, which lead to 81 policy violations in other skills due to the copy-pasted code snippets from these Alexa’s code examples.
 
 ## System Overview
 ![Overview](https://github.com/CUSecLab/SkillScanner/blob/main/image/system_overview.png)
 ## Results
 ![Results](https://github.com/CUSecLab/SkillScanner/blob/main/image/Results.png)
+
+## Usage
+
+### Prerequisites
+
+You need to download the CodeQL from [CodeQL](https://github.com/github/codeql-action/releases) to do the skill taint analysis.
+
+After downloading and unzipping it, rename it as "codeql-home" and put it in the root path of this repo.
+
+When you plan to scan a skill, go to the "skillscanner" folder and run with: 
+
+
+```bash
+python scan_skills.py ../skills_code 1
+```
+
+"1" means there might be several skills and "0" means only one skill.
+
+The results will be in the folder "skillscanner/results" and each skill will have a folder for storing results.
