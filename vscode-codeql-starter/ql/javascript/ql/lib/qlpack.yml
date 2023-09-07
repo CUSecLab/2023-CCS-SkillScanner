@@ -1,0 +1,7 @@
+name: codeql/javascript-all
+version: 0.0.11
+groups: javascript
+dbscheme: semmlecode.javascript.dbscheme
+extractor: javascript
+library: true
+upgrades: upgrades

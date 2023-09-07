@@ -1,0 +1,54 @@
+{
+	"folders": [
+		{
+			"path": "codeql-custom-queries-cpp"
+		},
+		{
+			"path": "codeql-custom-queries-csharp"
+		},
+		{
+			"path": "codeql-custom-queries-go"
+		},
+		{
+			"path": "codeql-custom-queries-java"
+		},
+		{
+			"path": "codeql-custom-queries-javascript"
+		},
+		{
+			"path": "codeql-custom-queries-python"
+		},
+		{
+			"path": "codeql-custom-queries-ruby"
+		},
+		{
+			"path": "codeql-go"
+		},
+		{
+			"path": "ql"
+		},
+		{
+			"path": "."
+		},
+		{
+			"name": "[python-database-test source archive]",
+			"uri": "codeql-zip-archive://0-50/home/song/rsc/codeql/python-database-test/src.zip"
+		},
+		{
+			"name": "[python-database-skill2 source archive]",
+			"uri": "codeql-zip-archive://0-52/home/song/rsc/codeql/python-database-skill2/src.zip"
+		},
+		{
+			"name": "[python-database-skill source archive]",
+			"uri": "codeql-zip-archive://0-51/home/song/rsc/codeql/python-database-skill/src.zip"
+		},
+		{
+			"name": "[js-database-skill source archive]",
+			"uri": "codeql-zip-archive://0-47/home/song/rsc/codeql/js-database-skill/src.zip"
+		}
+	],
+	"settings": {
+		"omnisharp.autoStart": false,
+		"codeQL.runningQueries.autoSave": true
+	}
+}

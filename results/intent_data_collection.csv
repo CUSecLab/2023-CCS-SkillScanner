@@ -1,0 +1,396 @@
+0,repos/ocelotconsulting/voice-framework-boilerplate,Billing,2,goodAddress,yesNoType
+,repos/3unyt/Alexa-Intern-Helper,CaptureUserNameIntent,1,name,AMAZON.FirstName
+,repos/AdminAlexaBledina/AlexaDocumentation/03,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/AdminAlexaBledina/AlexaDocumentation/03,RegisterBirthdayIntent,1,month,MonthType
+,repos/AdminAlexaBledina/AlexaDocumentation/03,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/AdminAlexaBledina/AlexaDocumentation/04,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/AdminAlexaBledina/AlexaDocumentation/04,RegisterBirthdayIntent,1,month,MonthType
+,repos/AdminAlexaBledina/AlexaDocumentation/04,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/AdminAlexaBledina/AlexaDocumentation/05,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/AdminAlexaBledina/AlexaDocumentation/05,RegisterBirthdayIntent,1,month,MonthType
+,repos/AdminAlexaBledina/AlexaDocumentation/05,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/AdminAlexaBledina/AlexaDocumentation/05_intent_chaining,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/AdminAlexaBledina/AlexaDocumentation/05_intent_chaining,RegisterBirthdayIntent,1,month,MonthType
+,repos/AdminAlexaBledina/AlexaDocumentation/05_intent_chaining,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/AdminAlexaBledina/AlexaDocumentation/06,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/AdminAlexaBledina/AlexaDocumentation/06,RegisterBirthdayIntent,1,month,MonthType
+,repos/AdminAlexaBledina/AlexaDocumentation/06,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/AdminAlexaBledina/AlexaDocumentation/07,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/AdminAlexaBledina/AlexaDocumentation/07,RegisterBirthdayIntent,1,month,MonthType
+,repos/AdminAlexaBledina/AlexaDocumentation/07,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/AdminAlexaBledina/AlexaDocumentation/08,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/AdminAlexaBledina/AlexaDocumentation/08,RegisterBirthdayIntent,1,month,MonthType
+,repos/AdminAlexaBledina/AlexaDocumentation/08,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/AdminAlexaBledina/AlexaDocumentation/09,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/AdminAlexaBledina/AlexaDocumentation/09,RegisterBirthdayIntent,1,month,MonthType
+,repos/AdminAlexaBledina/AlexaDocumentation/09,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/AdminAlexaBledina/AlexaDocumentation/10,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/AdminAlexaBledina/AlexaDocumentation/10,RegisterBirthdayIntent,1,month,MonthType
+,repos/AdminAlexaBledina/AlexaDocumentation/10,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/AlexaGroover/AlexaProject/26_ElicitSlot Directive,IntroWithAge,1,PersonName,AMAZON.Person
+,repos/AlexaGroover/AlexaProject/26_ElicitSlot Directive,AddUserPrefrence,1,PersonName,AMAZON.Person
+,repos/AlexaGroover/AlexaProject/27_ConfirmSlot Directive,IntroWithAge,1,PersonName,AMAZON.Person
+,repos/AlexaGroover/AlexaProject/27_ConfirmSlot Directive,AddUserPrefrence,1,PersonName,AMAZON.Person
+,repos/AlexaGroover/AlexaProject/28_ConfirmIntent Directive,IntroWithAge,1,PersonName,AMAZON.Person
+,repos/AlexaGroover/AlexaProject/28_ConfirmIntent Directive,AddUserPrefrence,1,PersonName,AMAZON.Person
+,repos/AlexaGroover/AlexaProject/30_Store data in DynamoDB,IntroWithAge,1,PersonName,AMAZON.Person
+,repos/AlexaGroover/AlexaProject/30_Store data in DynamoDB,AddUserPrefrence,1,PersonName,AMAZON.Person
+,repos/AlexaGroover/AlexaProject/31_Account Linking,IntroWithAge,1,PersonName,AMAZON.Person
+,repos/AlexaGroover/AlexaProject/31_Account Linking,AddUserPrefrence,1,PersonName,AMAZON.Person
+,repos/alexa-labs/skill-sample-nodejs-level-up-riddles/Step 1 - Add Advanced Voice Design,PlayGameIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/alexa-labs/skill-sample-nodejs-level-up-riddles/Step 2 - Add ISP,PlayGameIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/alexa-labs/skill-sample-nodejs-level-up-riddles/Step 3 - Add APL,PlayGameIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/AlexaRevolution/book_samples_v1/Ch_11/CuriosidadesdelAjolote,AskForName,1,name,AMAZON.SearchQuery
+,repos/AlexaRevolution/book_samples_v1/Ch_12/CuriosidadesdelAjolote,AskForName,1,name,AMAZON.SearchQuery
+,repos/AlexaRevolution/book_samples_v1/Ch_13/CuriosidadesdelAjolote,AskForName,1,name,AMAZON.SearchQuery
+,repos/AlexaRevolution/book_samples_v1/Ch_14/CuriosidadesdelAjolote,AskForName,1,name,AMAZON.SearchQuery
+,repos/AlexaRevolution/book_samples_v1/Ch_15/CuriosidadesdelAjolote,AskForName,1,name,AMAZON.SearchQuery
+,repos/AlexaRevolution/book_samples_v1/Ch_16/CuriosidadesdelAjolote,AskForName,1,name,AMAZON.SearchQuery
+,repos/AlexaRevolution/book_samples_v1/Ch_17/CuriosidadesdelAjolote,AskForName,1,name,AMAZON.SearchQuery
+,repos/AlexaRevolution/book_samples_v1/Ch_18/CuriosidadesdelAjolote,AskForName,1,name,AMAZON.SearchQuery
+,repos/alexa-samples/skill-sample-nodejs-first-skill/final,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/alexa-samples/skill-sample-nodejs-first-skill/final,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/alexa-samples/skill-sample-nodejs-first-skill/final,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/alexa-samples/skill-sample-nodejs-first-skill/i18n,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/alexa-samples/skill-sample-nodejs-first-skill/i18n,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/alexa-samples/skill-sample-nodejs-first-skill/i18n,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/alexa-samples/skill-sample-nodejs-the-foodie,RecommendationIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/03,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/03,RegisterBirthdayIntent,1,month,MonthType
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/03,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/04,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/04,RegisterBirthdayIntent,1,month,MonthType
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/04,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/05,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/05,RegisterBirthdayIntent,1,month,MonthType
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/05,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/05_intent_chaining,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/05_intent_chaining,RegisterBirthdayIntent,1,month,MonthType
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/05_intent_chaining,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/06,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/06,RegisterBirthdayIntent,1,month,MonthType
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/06,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/07,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/07,RegisterBirthdayIntent,1,month,MonthType
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/07,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/08,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/08,RegisterBirthdayIntent,1,month,MonthType
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/08,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/09,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/09,RegisterBirthdayIntent,1,month,MonthType
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/09,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/10,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/10,RegisterBirthdayIntent,1,month,MonthType
+,repos/alexa-samples/skill-sample-nodejs-zero-to-hero/10,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/aman199002/alexa_birthday_reminder,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/aman199002/alexa_birthday_reminder,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/aman199002/alexa_birthday_reminder,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/amitku126/all_en/basic-starter,MyNameIsIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/amitku126/falcon/Amazon_Pay_Broader_10_0,MyNameIsIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/amitku126/falcon/basic-starter,MyNameIsIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/amitku126/falcon/EN_Only_3_0,MyNameIsIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/amitku126/falcon/EN_with_other_4_0,MyNameIsIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/amitku126/falcon/High_Risk_Broader_10_0,MyNameIsIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/AndrewSenol/theStudyBarAlexa/testDB,myNameIs,1,firstName,AMAZON.US_FIRST_NAME
+,repos/AndrewSenol/theStudyBarAlexa/testDB,myNameIs,1,lastName,last_names
+,repos/AndrewSenol/theStudyBarAlexa/theStudyBar,myNameIs,1,firstName,AMAZON.US_FIRST_NAME
+,repos/AndrewSenol/theStudyBarAlexa/theStudyBar,myNameIs,1,lastName,last_names
+,repos/annaanx24/TechKNOWledgy/TechKNOWledgy,CaptureUserNameIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/annalenastrx/ClothingRecommendation/SkillDownload,WelcomeIntent,1,name,AMAZON.DE_FIRST_NAME
+,repos/annalenastrx/ClothingRecommendation/VSCodeDownload,WelcomeIntent,1,name,AMAZON.DE_FIRST_NAME
+,repos/ArunSarva/Alexa-skill,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/ArunSarva/Alexa-skill,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/ArunSarva/Alexa-skill,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/ashusath/rememberName,RememberName,1,name,AMAZON.US_FIRST_NAME
+,repos/ashwiniverma/NonProfitCompassion/interaction-service,NameIntent,1,username,AMAZON.US_FIRST_NAME
+,repos/bespoken-samples/GuessThePrice,GetContestantName,1,PlayerName,AMAZON.US_FIRST_NAME
+,repos/CamiWilliams/LevelUpRiddles-Workshop/Step 1 - Add Advanced Voice Design,PlayGameIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/CamiWilliams/LevelUpRiddles-Workshop/Step 2 - Add ISP,PlayGameIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/CamiWilliams/LevelUpRiddles-Workshop/Step 3 - Add APL,PlayGameIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/charliewynn/okc-trash-day,GiveAddressIntent,1,address,AMAZON.PostalAddress
+,repos/codeforboston/voiceapp311,TrashDayIntent,1,Address,AMAZON.PostalAddress
+,repos/codeforboston/voiceapp311,SnowParkingIntent,1,Address,AMAZON.PostalAddress
+,repos/codeforboston/voiceapp311,VotingIntent,1,Address,AMAZON.PostalAddress
+,repos/codeforboston/voiceapp311,CrimeIncidentsIntent,1,Address,AMAZON.PostalAddress
+,repos/codeforboston/voiceapp311,FoodTruckIntent,1,Address,AMAZON.PostalAddress
+,repos/cook-a-waffle/cake-walk-template,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/cook-a-waffle/cake-walk-template,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/cook-a-waffle/cake-walk-template,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/cook-a-waffle/zero-to-hero-tutorial,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/cook-a-waffle/zero-to-hero-tutorial,RegisterBirthdayIntent,1,month,MonthType
+,repos/cook-a-waffle/zero-to-hero-tutorial,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/CORaleigh/alexa-cor-webhook,Recycling,1,promptedAddress,AMAZON.StreetAddress
+,repos/dabblelab/1-alexa-basic-example-skill,MyNameIsIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/dabblelab/4-alexa-session-attributes-example-skill,MyNameIsIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/dabblelab/8-alexa-canfulfillintentrequest-example-skill,MyNameIsIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/dabblelab/freecodecamp-livestream/freecodecamp-alexa-skill,HelloIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/devsoor/alexa/MusicSpot,UserFullnameIntent,1,fullname,AMAZON.Person
+,repos/dhirajj14/illinois-tech-graduate-course-work/ITMT-593/final-assignment,NameIntent,1,name,AMAZON.FirstName
+,repos/Dhruvj21/Alexa-Salon-Appointment-Skill,CustomerAuthenticationIntent,1,name,AMAZON.FirstName
+,repos/DTS-STN/ServicePrototypeAlexaIntegration,CaptureNameIntent,1,name,AMAZON.Person
+,repos/dylan-nogueras/GatoEncerrado_TFG/Skill_Alexa_Gato_encerrado_ES_EN,NewGameIntent,1,name,AMAZON.SearchQuery
+,repos/dylan-nogueras/GatoEncerrado_TFG/Skill_Alexa_Gato_encerrado_ES_EN,ChangeNameIntent,1,name,AMAZON.SearchQuery
+,repos/dylan-nogueras/GatoEncerrado_TFG/Skill_Alexa_Juego_inicial_ES_EN,NewGameIntent,1,name,AMAZON.SearchQuery
+,repos/dylan-nogueras/GatoEncerrado_TFG/Skill_Alexa_Juego_inicial_ES_EN,ChangeNameIntent,1,name,AMAZON.SearchQuery
+,repos/Ehabdiab2000/AEXA-Nurse-Skill-2,NameIntent,1,name,AMAZON.Person
+,repos/Ehabdiab2000/AEXA-Nurse-Skill-2,AgeIntent,1,age,AMAZON.NUMBER
+,repos/Ehabdiab2000/ALEXA-Nurse-Skill-1,NameIntent,1,name,AMAZON.FirstName
+,repos/ehelbig1/cake_walk,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/ehelbig1/cake_walk,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/ehelbig1/cake_walk,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/feedm3/learning-alexa-skills-advanced-setup,MyNameIsIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/felixreynoso/krello/amzn1.ask.skill.a5988adc-23db-448b-85d4-549f871c7ecc,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/felixreynoso/krello/amzn1.ask.skill.a5988adc-23db-448b-85d4-549f871c7ecc,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/felixreynoso/krello/amzn1.ask.skill.a5988adc-23db-448b-85d4-549f871c7ecc,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/fgarcialainez/Build-Engaging-Alexa-Skill-Tutorial,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/fgarcialainez/Build-Engaging-Alexa-Skill-Tutorial,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/fgarcialainez/Build-Engaging-Alexa-Skill-Tutorial,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/fgozalof/CursodeAlexa/03,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/fgozalof/CursodeAlexa/03,RegisterBirthdayIntent,1,month,MonthType
+,repos/fgozalof/CursodeAlexa/03,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/fgozalof/CursodeAlexa/04,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/fgozalof/CursodeAlexa/04,RegisterBirthdayIntent,1,month,MonthType
+,repos/fgozalof/CursodeAlexa/04,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/fgozalof/CursodeAlexa/05,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/fgozalof/CursodeAlexa/05,RegisterBirthdayIntent,1,month,MonthType
+,repos/fgozalof/CursodeAlexa/05,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/fgozalof/CursodeAlexa/05_intent_chaining,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/fgozalof/CursodeAlexa/05_intent_chaining,RegisterBirthdayIntent,1,month,MonthType
+,repos/fgozalof/CursodeAlexa/05_intent_chaining,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/fgozalof/CursodeAlexa/06,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/fgozalof/CursodeAlexa/06,RegisterBirthdayIntent,1,month,MonthType
+,repos/fgozalof/CursodeAlexa/06,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/fgozalof/CursodeAlexa/07,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/fgozalof/CursodeAlexa/07,RegisterBirthdayIntent,1,month,MonthType
+,repos/fgozalof/CursodeAlexa/07,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/fgozalof/CursodeAlexa/08,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/fgozalof/CursodeAlexa/08,RegisterBirthdayIntent,1,month,MonthType
+,repos/fgozalof/CursodeAlexa/08,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/fgozalof/CursodeAlexa/09,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/fgozalof/CursodeAlexa/09,RegisterBirthdayIntent,1,month,MonthType
+,repos/fgozalof/CursodeAlexa/09,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/fgozalof/CursodeAlexa/10,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/fgozalof/CursodeAlexa/10,RegisterBirthdayIntent,1,month,MonthType
+,repos/fgozalof/CursodeAlexa/10,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/fgozalof/CursodeAlexa/11,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/fgozalof/CursodeAlexa/11,RegisterBirthdayIntent,1,month,MonthType
+,repos/fgozalof/CursodeAlexa/11,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/garrettmmoore/alexa-dice-game,AddUserIntent,1,FirstName,AMAZON.FirstName
+,repos/germanviscuso/ASKVideoSeries/03,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/germanviscuso/ASKVideoSeries/03,RegisterBirthdayIntent,1,month,MonthType
+,repos/germanviscuso/ASKVideoSeries/03,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/germanviscuso/ASKVideoSeries/04,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/germanviscuso/ASKVideoSeries/04,RegisterBirthdayIntent,1,month,MonthType
+,repos/germanviscuso/ASKVideoSeries/04,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/germanviscuso/ASKVideoSeries/05,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/germanviscuso/ASKVideoSeries/05,RegisterBirthdayIntent,1,month,MonthType
+,repos/germanviscuso/ASKVideoSeries/05,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/germanviscuso/ASKVideoSeries/05_intent_chaining,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/germanviscuso/ASKVideoSeries/05_intent_chaining,RegisterBirthdayIntent,1,month,MonthType
+,repos/germanviscuso/ASKVideoSeries/05_intent_chaining,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/germanviscuso/ASKVideoSeries/06,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/germanviscuso/ASKVideoSeries/06,RegisterBirthdayIntent,1,month,MonthType
+,repos/germanviscuso/ASKVideoSeries/06,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/germanviscuso/ASKVideoSeries/07,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/germanviscuso/ASKVideoSeries/07,RegisterBirthdayIntent,1,month,MonthType
+,repos/germanviscuso/ASKVideoSeries/07,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/germanviscuso/ASKVideoSeries/08,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/germanviscuso/ASKVideoSeries/08,RegisterBirthdayIntent,1,month,MonthType
+,repos/germanviscuso/ASKVideoSeries/08,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/germanviscuso/ASKVideoSeries/09,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/germanviscuso/ASKVideoSeries/09,RegisterBirthdayIntent,1,month,MonthType
+,repos/germanviscuso/ASKVideoSeries/09,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/germanviscuso/ASKVideoSeries/10,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/germanviscuso/ASKVideoSeries/10,RegisterBirthdayIntent,1,month,MonthType
+,repos/germanviscuso/ASKVideoSeries/10,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/grosa1/alexa-unit-test,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/grosa1/alexa-unit-test,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/grosa1/alexa-unit-test,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/GRy82/VoiceAppRepo,CollectPlayerMobileNumberIntent,1,mobileNumber,AMAZON.PhoneNumber
+,repos/gurbaaz19/Alexa-Salon-Appointment,CustomerAuthenticationIntent,1,Name,AMAZON.FirstName
+,repos/Hasi57/zerohero3,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/Hasi57/zerohero3,RegisterBirthdayIntent,1,month,MonthType
+,repos/Hasi57/zerohero3,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/hoquesumya/Alexa-Covid-19-CBT-Assistance,NameIntent,1,name,AMAZON.FirstName
+,repos/idiosyncrati/KA1901,ExisistingUser,1,user,AMAZON.US_FIRST_NAME
+,repos/inobtsp/crowdsoucing_platform,SignInIntent,1,workername,AMAZON.FirstName
+,repos/inobtsp/crowdsoucing_project,SignInIntent,1,workername,AMAZON.FirstName
+,repos/Ioana-Nadia/BachelorDegree,RegisterNameIntent,1,name,AMAZON.DE_FIRST_NAME
+,repos/jeffblankenburg/ScavengerHunt/.legacy,PhoneNumberIntent,1,phoneNumber,AMAZON.PhoneNumber
+,repos/jetannenbaum/Alexa/birthday,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/jetannenbaum/Alexa/birthday,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/jetannenbaum/Alexa/birthday,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/johnzhang-redspace/jovo-sample,MyNameIsIntent,1,name,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.given-name'}"
+,repos/joshua-bloom/alexa-skill-cake-time,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/joshua-bloom/alexa-skill-cake-time,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/joshua-bloom/alexa-skill-cake-time,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/joshua-bloom/cake-time-skill-william,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/joshua-bloom/cake-time-skill-william,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/joshua-bloom/cake-time-skill-william,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/joshua-bloom/william-lai-cake-time,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/joshua-bloom/william-lai-cake-time,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/joshua-bloom/william-lai-cake-time,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/juanmf/InnovationChallengeDealsAssistantAlexaSkill,NameIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/juliocrn94/Happybirthday_Alexa_Skill,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/juliocrn94/Happybirthday_Alexa_Skill,RegisterBirthdayIntent,1,month,MonthType
+,repos/juliocrn94/Happybirthday_Alexa_Skill,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/junw10/noah.care,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/junw10/noah.care,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/junw10/noah.care,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/karakarakaraff/alexa-skills/oregon-trail,GetName,1,name,AMAZON.US_FIRST_NAME
+,repos/KartikChugh/CakeTime,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/KartikChugh/CakeTime,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/KartikChugh/CakeTime,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/Kowsalya-Balachandran/kowsalyadhanam,MyNameIsIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/lucasagostini/NicaProject,GiveNameIntent,1,name,AMAZON.FirstName
+,repos/lucky-singh/mltrivia/ML_Trivia,GetNameIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/Makerdemy/Advanced-Alexa/SECTION-1/with_entity_resolution,captureusername,1,name,AMAZON.US_FIRST_NAME
+,repos/Makerdemy/Advanced-Alexa/SECTION-1/without_entity_resolution,captureusername,1,name,AMAZON.US_FIRST_NAME
+,repos/Makerdemy/Advanced-Alexa/SECTION-2/Let_us_get_familiar,NameIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/Makerdemy/Advanced-Alexa/SECTION-2/lets_get_familiar,UserInformationIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/Makerdemy/Advanced-Alexa/SECTION-3/carry checker,captureusername,1,name,AMAZON.US_FIRST_NAME
+,repos/Makerdemy/Alexa-skills-in-24-hours/Section 2/2.6/first skill,NameIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/Makerdemy/Alexa-skills-in-24-hours/Section 4/4.3/Image quiz,NameIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/Makerdemy/Alexa-skills-in-24-hours/Section 5/5.3/Pizza Skill,NameIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/Makerdemy/Alexa-skills-in-24-hours/Section 7/7.12/Make my own type 2,OrderIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/makyfj/AlexaSkillPython,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/makyfj/AlexaSkillPython,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/makyfj/AlexaSkillPython,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/26_ElicitSlot Directive,IntroWithAge,1,PersonName,AMAZON.Person
+,repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/26_ElicitSlot Directive,AddUserPrefrence,1,PersonName,AMAZON.Person
+,repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/27_ConfirmSlot Directive,IntroWithAge,1,PersonName,AMAZON.Person
+,repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/27_ConfirmSlot Directive,AddUserPrefrence,1,PersonName,AMAZON.Person
+,repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/28_ConfirmIntent Directive,IntroWithAge,1,PersonName,AMAZON.Person
+,repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/28_ConfirmIntent Directive,AddUserPrefrence,1,PersonName,AMAZON.Person
+,repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/30_Store data in DynamoDB,IntroWithAge,1,PersonName,AMAZON.Person
+,repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/30_Store data in DynamoDB,AddUserPrefrence,1,PersonName,AMAZON.Person
+,repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/31_Account Linking,IntroWithAge,1,PersonName,AMAZON.Person
+,repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/31_Account Linking,AddUserPrefrence,1,PersonName,AMAZON.Person
+,repos/mikdanjey/AlexaKyybaHappyBirthday,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/mikdanjey/AlexaKyybaHappyBirthday,RegisterBirthdayIntent,1,month,MonthType
+,repos/mikdanjey/AlexaKyybaHappyBirthday,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/ncleguizamon/open-cake-walk-test,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/ncleguizamon/open-cake-walk-test,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/ncleguizamon/open-cake-walk-test,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/Nickeem/AlexaVisitorSkill,RecordNewVisitorIntent,1,name,AMAZON.FirstName
+,repos/nicktodd/BasicAlexaSkill,getusersname,1,name,AMAZON.GB_FIRST_NAME
+,repos/oliver9321/memberCareAssistance,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/oliver9321/memberCareAssistance,RegisterBirthdayIntent,1,month,MonthType
+,repos/oliver9321/memberCareAssistance,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/omdesai/Jovo-app,MyNameIsIntent,1,name,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.given-name'}"
+,repos/pallavi192k/HERE-FOR-YOU,CaptureNameIntent,1,name,AMAZON.FirstName
+,repos/pearlandrw/car-go,MyNameIsIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/perezthedev/skill-sample-nodejs-zero-to-hero/03,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/perezthedev/skill-sample-nodejs-zero-to-hero/03,RegisterBirthdayIntent,1,month,MonthType
+,repos/perezthedev/skill-sample-nodejs-zero-to-hero/03,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/peterluba/cake-walk-alexa/cake_walk,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/peterluba/cake-walk-alexa/cake_walk,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/peterluba/cake-walk-alexa/cake_walk,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/prady13/Cake-Time,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/prady13/Cake-Time,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/prady13/Cake-Time,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/queirozsc/Alexa-Workshop,MyNameIs,1,strname,AMAZON.US_FIRST_NAME
+,repos/radroof22/hackmit-2021/alexa/amzn1.ask.skill.436cb596-0d9d-490c-a0a7-5e48a8a2ca15,askFirstLastName,1,firstName,FIRSTNAME
+,repos/radroof22/hackmit-2021/alexa/amzn1.ask.skill.436cb596-0d9d-490c-a0a7-5e48a8a2ca15,askFirstLastName,1,lastName,LASTNAME
+,repos/raquelfishes/alexaSkill,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/raquelfishes/alexaSkill,RegisterBirthdayIntent,1,month,MonthType
+,repos/raquelfishes/alexaSkill,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/RazaProdigy/Covid-19-Recommendation-System-Using-Alexa-Skills,addDetails,1,name,AMAZON.Person
+,repos/renatospaka/zero-2-hero,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/renatospaka/zero-2-hero,RegisterBirthdayIntent,1,month,MonthType
+,repos/renatospaka/zero-2-hero,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/robm26/travel-browser,MyNameIsIntent,1,firstname,AMAZON.US_FIRST_NAME
+,repos/rupaku/codebase/Project/alexa cake walk,CaptureBirthdayEvent,1,month,AMAZON.Month
+,repos/rupaku/codebase/Project/alexa cake walk,CaptureBirthdayEvent,1,day,AMAZON.Ordinal
+,repos/rupaku/codebase/Project/alexa cake walk,CaptureBirthdayEvent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/rupaku/codebase/Project/alexa cake walk remember,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/rupaku/codebase/Project/alexa cake walk remember,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/rupaku/codebase/Project/alexa cake walk remember,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/santo-19/AlexaSkill/alexa,addDetails,1,name,AMAZON.Person
+,repos/SDC-Lab/AlexaNutrition,ExisistingUser,1,user,AMAZON.US_FIRST_NAME
+,repos/SebastienCoste/AlexaOblicStrategy,NameCapture,1,USFirstName,AMAZON.US_FIRST_NAME
+,repos/SebastienCoste/AlexaOblicStrategy,NameCapture,1,UKFirstName,AMAZON.GB_FIRST_NAME
+,repos/Sengchanasa/Community_Support,MyNameIsIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/Sethlimlee/AlexaCakeTimeSkill,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/Sethlimlee/AlexaCakeTimeSkill,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/Sethlimlee/AlexaCakeTimeSkill,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/sgiri/Alexa,NameIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/singha53-zz/omics-bioanalytics-alexa-skill,PhoneNumberIntent,1,mobileNumber,AMAZON.PhoneNumber
+,repos/skl1m/ecopal/skill,ChallengesIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/SmartPracticeschool/SPS-4104-Develop-Alexa-Skill-for-COVID-19-Recommendations,addDetails,1,name,AMAZON.Person
+,repos/SmartPracticeschool/SPS-4108-Develop-Alexa-Skill-for-COVID-19-Recommendations,addDetails,1,name,AMAZON.Person
+,repos/SmartPracticeschool/SPS-4165-Develop-Alexa-Skill-for-COVID-19-Recommendations/alexa,addDetails,1,name,AMAZON.Person
+,repos/SmartPracticeschool/SPS-4168-Develop-Alexa-Skill-for-COVID-19-Recommendations/AMAZONSKill,addInfo,1,name,AMAZON.Person
+,repos/SmartPracticeschool/SPS-4169-Develop-Alexa-Skill-for-COVID-19-Recommendations/Alexa,addDetails,1,name,AMAZON.Person
+,repos/SmartPracticeschool/SPS-4170-Develop-Alexa-Skill-for-COVID-19-Recommendations/alexacovid,addDetails,1,name,AMAZON.Person
+,repos/SmartPracticeschool/SPS-4171-Develop-Alexa-Skill-for-COVID-19-Recommendations/AMAZONSKill,addDetails,1,name,AMAZON.Person
+,repos/SmartPracticeschool/SPS-4173-Develop-Alexa-Skill-for-COVID-19-Recommendations,addDetails,1,name,AMAZON.Person
+,repos/SmartPracticeschool/SPS-4174-Develop-Alexa-Skill-for-COVID-19-Recommendations/alexa,addDetails,1,name,AMAZON.Person
+,repos/SmartPracticeschool/SPS-4181-Develop-Alexa-Skill-for-COVID-19-Recommendations,addDetails,1,name,AMAZON.Person
+,repos/SmartPracticeschool/SPS-4191-Develop-Alexa-Skill-for-COVID-19-Recommendations/alexaskill,addDetails,1,name,AMAZON.Person
+,repos/SwapnilShahGit/STEM-Party,NameIntent,1,fname,AMAZON.US_FIRST_NAME
+,repos/t04glovern/cat-a-log-code/L04_S02,ChangeNameIntent,1,Name,AMAZON.US_FIRST_NAME
+,repos/t04glovern/cat-a-log-code/L04_S03,ChangeNameIntent,1,Name,AMAZON.US_FIRST_NAME
+,repos/t04glovern/cat-a-log-code/L04_S04,ChangeNameIntent,1,Name,AMAZON.US_FIRST_NAME
+,repos/t04glovern/cat-a-log-code/L04_S05,ChangeNameIntent,1,Name,AMAZON.US_FIRST_NAME
+,repos/t04glovern/cat-a-log-code/L04_S06,ChangeNameIntent,1,Name,AMAZON.US_FIRST_NAME
+,repos/t04glovern/cat-a-log-code/L04_S07,ChangeNameIntent,1,Name,AMAZON.US_FIRST_NAME
+,repos/TeamCodebreakers/idk_source,AddGroupMemberIntent,1,name,AMAZON.FirstName
+,repos/TeamCodebreakers/idk_source,AddGroupMemberIntent,1,phoneNumber,AMAZON.PhoneNumber
+,repos/TeamCodebreakers/idk_source,RemoveGroupMemberIntent,1,phoneNumber,AMAZON.PhoneNumber
+,repos/TheDreamSaver/alexa-oreilly/cake time/02 - Add Birthday Logic,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/TheDreamSaver/alexa-oreilly/cake time/02 - Add Birthday Logic,CaptureBirthdayIntent,1,month,MonthType
+,repos/TheDreamSaver/alexa-oreilly/cake time/02 - Add Birthday Logic,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/TheDreamSaver/alexa-oreilly/cake time/03 - Add Persistence - Save to DB,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/TheDreamSaver/alexa-oreilly/cake time/03 - Add Persistence - Save to DB,CaptureBirthdayIntent,1,month,MonthType
+,repos/TheDreamSaver/alexa-oreilly/cake time/03 - Add Persistence - Save to DB,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/TheDreamSaver/alexa-oreilly/cake time/04 - Add Persistence - Read from DB,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/TheDreamSaver/alexa-oreilly/cake time/04 - Add Persistence - Read from DB,CaptureBirthdayIntent,1,month,MonthType
+,repos/TheDreamSaver/alexa-oreilly/cake time/04 - Add Persistence - Read from DB,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/TheDreamSaver/alexa-oreilly/cake time/05 - Add Interceptors,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/TheDreamSaver/alexa-oreilly/cake time/05 - Add Interceptors,CaptureBirthdayIntent,1,month,MonthType
+,repos/TheDreamSaver/alexa-oreilly/cake time/05 - Add Interceptors,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/TheDreamSaver/alexa-oreilly/cake time/06 - Add Dialog Management,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/TheDreamSaver/alexa-oreilly/cake time/06 - Add Dialog Management,CaptureBirthdayIntent,1,month,MonthType
+,repos/TheDreamSaver/alexa-oreilly/cake time/06 - Add Dialog Management,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/TheDreamSaver/alexa-workshop-convoke/DB Stuff,MyNameIsIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/TheDreamSaver/alexa-workshop-convoke/Hello Slots,MyNameIsIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/thiagofalves2/safra360,CaptureCelphoneIntent,1,celphone_number_one,AMAZON.NUMBER
+,repos/thiagofalves2/safra360,CaptureCelphoneIntent,1,celphone_number_two,AMAZON.NUMBER
+,repos/thiagofalves2/safra360,CaptureCelphoneIntent,1,celphone_number_three,AMAZON.NUMBER
+,repos/thiagofalves2/safra360,CaptureCelphoneIntent,1,celphone_number_four,AMAZON.NUMBER
+,repos/thiagofalves2/safra360,CaptureCelphoneIntent,1,celphone_number_five,AMAZON.NUMBER
+,repos/thiagofalves2/safra360,CaptureCelphoneIntent,1,celphone_number_six,AMAZON.NUMBER
+,repos/thiagofalves2/safra360,CaptureCelphoneIntent,1,celphone_number_seven,AMAZON.NUMBER
+,repos/thiagofalves2/safra360,CaptureCelphoneIntent,1,celphone_number_eight,AMAZON.NUMBER
+,repos/tienwei/smart-claims/alexa-skill/foodie,RecommendationIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/tingiris/starter-demo-two,MyNameIsIntent,1,name,AMAZON.US_FIRST_NAME
+,repos/venztech103/api-reminder,RegisterBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/venztech103/api-reminder,RegisterBirthdayIntent,1,month,MonthType
+,repos/venztech103/api-reminder,RegisterBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/willilai/william-lai-cake-time/william-lai-cake-time,CaptureBirthdayIntent,1,month,AMAZON.Month
+,repos/willilai/william-lai-cake-time/william-lai-cake-time,CaptureBirthdayIntent,1,day,AMAZON.Ordinal
+,repos/willilai/william-lai-cake-time/william-lai-cake-time,CaptureBirthdayIntent,1,year,AMAZON.FOUR_DIGIT_NUMBER
+,repos/xarques/skill-joyeux-anniversaire/3-ManageDialogs,RegisterBirthdayIntent,1,day,AMAZON.NUMBER
+,repos/xarques/skill-joyeux-anniversaire/3-ManageDialogs,RegisterBirthdayIntent,1,month,MonthSlotType
+,repos/xarques/skill-joyeux-anniversaire/3-ManageDialogs,RegisterBirthdayIntent,1,year,AMAZON.NUMBER
+,repos/xarques/skill-joyeux-anniversaire/4-Persistence,RegisterBirthdayIntent,1,day,AMAZON.NUMBER
+,repos/xarques/skill-joyeux-anniversaire/4-Persistence,RegisterBirthdayIntent,1,month,MonthSlotType
+,repos/xarques/skill-joyeux-anniversaire/4-Persistence,RegisterBirthdayIntent,1,year,AMAZON.NUMBER
+,repos/xarques/skill-joyeux-anniversaire/5-AlexaAPI,RegisterBirthdayIntent,1,day,AMAZON.NUMBER
+,repos/xarques/skill-joyeux-anniversaire/5-AlexaAPI,RegisterBirthdayIntent,1,month,MonthSlotType
+,repos/xarques/skill-joyeux-anniversaire/5-AlexaAPI,RegisterBirthdayIntent,1,year,AMAZON.NUMBER
+,repos/xarques/skill-joyeux-anniversaire/6-Reminder API,RegisterBirthdayIntent,1,day,AMAZON.NUMBER
+,repos/xarques/skill-joyeux-anniversaire/6-Reminder API,RegisterBirthdayIntent,1,month,MonthSlotType
+,repos/xarques/skill-joyeux-anniversaire/6-Reminder API,RegisterBirthdayIntent,1,year,AMAZON.NUMBER
+,repos/xarques/skill-joyeux-anniversaire/7-External APIs,RegisterBirthdayIntent,1,day,AMAZON.NUMBER
+,repos/xarques/skill-joyeux-anniversaire/7-External APIs,RegisterBirthdayIntent,1,month,MonthSlotType
+,repos/xarques/skill-joyeux-anniversaire/7-External APIs,RegisterBirthdayIntent,1,year,AMAZON.NUMBER
+,repos/AndrewSenol/theStudyBarAlexa/testDB,firstNameOne,2,firstName,AMAZON.US_FIRST_NAME
+,repos/AndrewSenol/theStudyBarAlexa/testDB,lastNameOne,2,lastName,last_names
+,repos/AndrewSenol/theStudyBarAlexa/theStudyBar,firstNameOne,2,firstName,AMAZON.US_FIRST_NAME
+,repos/AndrewSenol/theStudyBarAlexa/theStudyBar,lastNameOne,2,lastName,last_names
+,repos/ocelotconsulting/voice-framework-boilerplate,EstimatedRestoration,2,goodAddress,yesNoType
+,repos/ocelotconsulting/voice-framework-boilerplate,ReportOutage,2,goodAddress,yesNoType
+,repos/riselabs-ufba/alexa-skills/Arithmetic tables/Version 3,AnswerNameIntent,2,username,AMAZON.FirstName
+,repos/SuneetPatil/Alexa-Basic-Welcome,WelcomeIntent,2,name,AMAZON.US_FIRST_NAME

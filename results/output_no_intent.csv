@@ -1,0 +1,172 @@
+skill,data_type,output
+repos/0xDebabrata/alexa-covid19-tracker,collect data name,you can introduce yourself by telling me your name
+repos/aarjo/alexa-league-rank-finder,collect data name,have you set your name and region?
+repos/aarjo/alexa-league-rank-finder,collect data name,"i have set your name to ${name}. if i pronounced that badly, you can ask me to spell out your name to make sure i got it right."
+repos/aarjo/alexa-league-rank-finder,collect data name,"your name is ${name}. if i pronounced that badly, you can ask me to spell out your name to make sure i got it right."
+repos/Abhinav0909/Jokes/client/amzn1.ask.skill.97acfbba-a3d9-4eb5-a240-77f8f0030a40,collect data name,you can introduce yourself by telling me your name
+repos/AbhinavTuli/Apartments-Finder,collect data name,you can introduce yourself by telling me your name
+repos/AbhinavTuli/Foodie-Index,collect data name,you can introduce yourself by telling me your name
+repos/aflorithmic/alexa,collect data name,"welcome to api audio news maker. just say play and your name to begin. for example, say, play alex."
+repos/ahitt6345/Kebabkat-Alexa/amzn1.ask.skill.aca43909-cf68-4e1a-bc9a-3e0a77eeb72e,collect data name,you can introduce yourself by telling me your name
+repos/ahsanali17/RocketElevators-AI-Alexa,collect data name,you can introduce yourself by telling me your name
+repos/aidex-hackability/aidex/aidexDrive,collect data location,"<p>i believe your current location is around,</p> <p>wait</p> "
+repos/aidex-hackability/aidex/aidexDrive,collect data location,i believe your current location is around 
+repos/aishu827/Learn-Alexa-the-fun-way/Learn Alexa the fun way/section 1/1.3,collect data name,"i am amazon alexa, or simply alexa. i am virtual assistant developed by amazon. i was initially released in november 2014. i work on the fire os 5.0 or higher. now tell me, what is your name?"
+repos/aishu827/Learn-Alexa-the-fun-way/Learn Alexa the fun way/section 1/1.4,collect data name,"i am amazon alexa, or simply alexa. i am virtual assistant developed by amazon. i was initially released in november 2014. i work on the fire os 5.0 or higher. now tell me, what is your name?"
+repos/aishu827/Learn-Alexa-the-fun-way/Learn Alexa the fun way/section 1/1.5,collect data name,"i am amazon alexa, or simply alexa. i am virtual assistant developed by amazon. i was initially released in november 2014. i work on the fire os 5.0 or higher. now tell me, what is your name?"
+repos/aishu827/Learn-Alexa-the-fun-way/Learn Alexa the fun way/section 4/4.4,collect data name,"i am amazon alexa, or simply alexa. i am virtual assistant developed by amazon. i was initially released in november 2014. i work on the fire os 5.0 or higher. now tell me, what is your name?"
+repos/aishu-S/Alexa_course_contents/Learn Alexa the fun way/section 1/1.3,collect data name,"i am amazon alexa, or simply alexa. i am virtual assistant developed by amazon. i was initially released in november 2014. i work on the fire os 5.0 or higher. now tell me, what is your name?"
+repos/aishu-S/Alexa_course_contents/Learn Alexa the fun way/section 1/1.4,collect data name,"i am amazon alexa, or simply alexa. i am virtual assistant developed by amazon. i was initially released in november 2014. i work on the fire os 5.0 or higher. now tell me, what is your name?"
+repos/aishu-S/Alexa_course_contents/Learn Alexa the fun way/section 1/1.5,collect data name,"i am amazon alexa, or simply alexa. i am virtual assistant developed by amazon. i was initially released in november 2014. i work on the fire os 5.0 or higher. now tell me, what is your name?"
+repos/aishu-S/Alexa_course_contents/Learn Alexa the fun way/section 4/4.4,collect data name,"i am amazon alexa, or simply alexa. i am virtual assistant developed by amazon. i was initially released in november 2014. i work on the fire os 5.0 or higher. now tell me, what is your name?"
+repos/AlexaGroover/AlexaProject/29_Obtain Device Information,collect data address,not found your address
+repos/AlexaRevolution/book_samples_v1/Ch_12/CuriosidadesdelAjolote,collect data address,we need to acces to your address in order to continue.
+repos/AlexaRevolution/book_samples_v1/Ch_13/CuriosidadesdelAjolote,collect data address,we need to acces to your address in order to continue.
+repos/AlexaRevolution/book_samples_v1/Ch_14/CuriosidadesdelAjolote,collect data address,we need to acces to your address in order to continue.
+repos/AlexaRevolution/book_samples_v1/Ch_15/CuriosidadesdelAjolote,collect data address,we need to acces to your address in order to continue.
+repos/AlexaRevolution/book_samples_v1/Ch_16/CuriosidadesdelAjolote,collect data address,we need to acces to your address in order to continue.
+repos/AlexaRevolution/book_samples_v1/Ch_17/CuriosidadesdelAjolote,collect data address,we need to acces to your address in order to continue.
+repos/AlexaRevolution/book_samples_v1/Ch_18/CuriosidadesdelAjolote,collect data address,we need to acces to your address in order to continue.
+repos/alexa-samples/skill-sample-nodejs-demo-store-amazon-pay,collect data address, {producttype} is {productprice} dollars and will ship to your address at {shippingaddress}.<break time=".5s"/>
+repos/alexa-samples/skill-sample-nodejs-linked-profile,collect data address,your street address is %s. 
+repos/amantech90/alexa-remote-api,collect data name,you can introduce yourself by telling me your name
+repos/amzjctuan/Math-tutor,collect data name,what is your name? 
+repos/andijakl/VoiceLearning,collect data name,"hi and welcome to voice learning! i can help you understand the most important concepts of your courses. first, please tell me your first name!"
+repos/andijakl/VoiceLearning,collect data name,i can'd do that right now. please tell me your name first.
+repos/andijakl/VoiceLearning,collect data name,please tell me your first name.
+repos/AndrewSenol/theStudyBarAlexa/timesheetTSB,collect data name,sorry i didn\'t quite get that. sign in by saying "sign in" and then your first and last name
+repos/AndrewSenol/theStudyBarAlexa/timesheetTSB,collect data name,sorry i didn\'t quite get that. sign out by saying "sign out" and then your first and last name
+repos/bhalgalix/movie-diaries,collect data name,you can introduce yourself by telling me your name
+repos/bhargav41/Jokes-Skill/client/amzn1.ask.skill.3d9f7f16-f4f8-402a-93b3-6681abdccd63 (1),collect data name,you can introduce yourself by telling me your name
+repos/BradGriffith/cookie-sales-skill,collect data name,hello world! what's your name?
+repos/BradGriffith/cookie-sales-skill,collect data name,"s your name?"", "
+repos/bzobrist/nodeproxy_alexa_skill,collect data name,you can introduce yourself by telling me your name
+repos/cavewoman/chattanooga-techie-skill,collect data name,you can introduce yourself by telling me your name
+repos/CeesJol/my-cafe,collect data birthday,it is your birthday today! do you want to give all the customers a treat on you?
+repos/CeesJol/my-cafe,collect data birthday,"that's okay, you can celebrate your birthday with your family instead."
+repos/CeesJol/my-cafe,collect data income,the lack of advertisements has driven back your income.
+repos/CG-K/golf-clone,collect data location,"app.  you could go to your settings, and edit the device location with your current location."
+repos/CG-K/golf-clone,collect data address,"we failed to get your device address, please try again!"
+repos/Cheesetouched/Hireoo/Alexa Skill,collect data email,candidate list sent to you on your email.
+repos/cjain12/beauty_store,collect data birthday,i can remember your birthday if you tell me the date. i can also tell you the remaining days until your next birthday. or allow you to set up a reminder for your birthday. finally i can tell you whose birthday is it today. which one would you like to try? 
+repos/cjain12/beauty_store,collect data birthday,"if you want to change the date, try saying, register my birthday. you can also try to set up a reminder for your birthday or check today's birthdays. what would you like to do next? "
+repos/cjain12/beauty_store,collect data birthday,maybe you can now check how many days are left until your birthday. and remember that you can also create a reminder for it. what would you like to do next? 
+repos/cjain12/beauty_store,collect data birthday,"try tapping on other celebrities to get more information. if you're done, you can try to check on the remaining days until your birthday, or set a reminder for it. what would you like to do?"
+repos/cjain12/beauty_store,collect data birthday,you can try tapping on each celebrity to get more information. or maybe you can check how many days are left until your birthday. what would you like to do next? 
+repos/codeforboston/voiceapp311,collect data location,"your polling location is {}, {}"
+repos/dabblelab/10-alexa-dynamodb-datastore-example-skill,collect data name,you can introduce yourself by telling me your name
+repos/dabblelab/15-alexa-apl-example-skill,collect data name,you can introduce yourself by telling me your name
+repos/dabblelab/16-alexa-account-linking-example-skill,collect data name,you can introduce yourself by telling me your name
+repos/dabblelab/2-alexa-remote-api-example-skill,collect data name,you can introduce yourself by telling me your name
+repos/dabblelab/6-alexa-address-information-example-skill,collect data address,"your complete address is, ${completeaddress}"
+repos/dabblelab/alexa-apl-for-audio-example,collect data name,you can introduce yourself by telling me your name
+repos/dacf/Reddit-Reads,collect data name,you can introduce yourself by telling me your name
+repos/danielbarnes175/Zoro.com-Internship,collect data email,i have sent the zoro shopping cart link to your email.
+repos/danielbarnes175/Zoro.com-Internship,collect data email,i sent the link to the shopping cart with ${itemqty} ${products[itemidx].itemtitle} to your email.
+repos/danielbarnes175/Zoro.com-Internship,collect data email,"i sent the link to the shopping cart with 3 hammer, rip claw, 16 oz., 12"" l to your email."
+repos/danielbarnes175/Zoro.com-Internship,collect data email,i sent the search results of "${searchterm}" to your email.
+repos/danielbarnes175/Zoro.com-Internship,collect data email,i sent the search results of "${searchterms.hammers}" to your email.
+repos/danielbarnes175/Zoro.com-Internship,collect data email,please search for an item first so that the cart link can be sent to your email.
+repos/devinjacobson/AlexaQuiz,collect data name,what is your name
+repos/dimpscapri/Smart-Lock,collect data name,you can introduce yourself by telling me your name
+repos/dkaj1990/react-native-alexa-app/reactn-alexa/alexa,collect data name,you can introduce yourself by telling me your name
+repos/dvontrec/Sprinkle-of-Alexa,collect data name,you can introduce yourself by telling me your name
+repos/EchoSkillTemplates/Alexa-API-Starter,collect data name,you can introduce yourself by telling me your name
+repos/EdwardF2/Testing-Alexa,collect data name,you can introduce yourself by telling me your name
+repos/FasihAhmedRaza/alexa-client,collect data name,you can introduce yourself by telling me your name
+repos/FasihAhmedRaza/morning-mediation-alexa,collect data name,"/>now, with your eyes close say these words in this order. i will have a productive and amazing day today. you will have a productive and amazing day today. say, your name, will have a productive and amazing day today. we will have a productive and amazing day today. i will give you 30 seconds to complete this.<break time=\"
+repos/GideonBrasil/Everything-Calgary/calgary,collect data name,you can introduce yourself by telling me your name
+repos/gouravvatadahal/Alexa_skill,collect data phone number,your phone number please
+repos/gusgad/alexa-polarcast,collect data name,you can introduce yourself by telling me your name
+repos/hackbrew01/EchoTemplates/API-Starter,collect data name,you can introduce yourself by telling me your name
+repos/hrbowers/alexa-accessibility,collect data email,"ok, i will not inform you of any issues with your account. account notifications will still be sent to your email. good bye."
+repos/ijlal-gondal/RocketElevators-AI/alexa-remote-api-skill-template-master,collect data name,you can introduce yourself by telling me your name
+repos/ilikerobots/estonia-one-hundred-alexa,collect data name,"to tell an estonian your name, add your name to the end of this phrase which means ""my name is"" "
+repos/iScreem/APL_Keyboard,collect data email,welcome to the a p l keyboard demo. please enter your email
+repos/jeffblankenburg/TKOTriviaAlexa,collect data name," before we get started, what is your first name?"
+repos/jeffblankenburg/TKOTriviaAlexa,collect data name,i'm sorry.  i didn't catch that.  what is your first name?
+repos/jiayizhg/reflectMirror,collect data name,you can introduce yourself by telling me your name
+repos/JulyMaker/JulyAlexaSkill/miSkill,collect data birthday,$t(doubt_speechcon). it looks like you haven't told me your birthday yet. 
+repos/JulyMaker/JulyAlexaSkill/miSkill,collect data birthday,i can remember your birthday if you tell me the date. i can also tell you the remaining days until your next birthday. or allow you to set up a reminder for your birthday. finally i can tell you whose birthday is it today. which one would you like to try? 
+repos/JulyMaker/JulyAlexaSkill/miSkill,collect data birthday,"if you want to change the date, try saying, register my birthday. you can also try to set up a reminder for your birthday or check today's birthdays. what would you like to do next? "
+repos/JulyMaker/JulyAlexaSkill/miSkill,collect data birthday,maybe you can now check how many days are left until your birthday. and remember that you can also create a reminder for it. what would you like to do next? 
+repos/JulyMaker/JulyAlexaSkill/miSkill,collect data birthday,welcome to happy birthday {{name}}. let's have some fun with your birthday! 
+repos/kandelin16/ProducePalDev,collect data name,hello world! what's your name?
+repos/kandelin16/ProducePalDev,collect data name,"s your name?"", "
+repos/KanuGaba/Amazon-PreOnboarding-Alexa-Skill,collect data email,your my docs portal email. 
+repos/KanuGaba/Amazon-PreOnboarding-Alexa-Skill,collect data address,"your state or local tax responsibilities, as well as tax withholding on your earnings, are based on both your legal resident address "
+repos/karakarakaraff/alexa-skills/oregon-trail,collect data profession,"great! now let's choose your profession. you can be a banker, a carpenter, or a farmer. what do you want to be?"
+repos/KaveeshaW/covidTracker/covid tracker,collect data name,you can introduce yourself by telling me your name
+repos/kevinchen2023/SongMatch/KevinChenSongMatch,collect data birthday,hello! welcome to cake walk. what is your birthday?
+repos/kiranreddy1/api-starter,collect data name,you can introduce yourself by telling me your name
+repos/KiranWells/howdy-hack-alexa,collect data name,you can introduce yourself by telling me your name
+repos/lakeel-altla/samples-alexa-skills/oauth,collect data name,failed to fetch your name.
+repos/lakshyamcs16/Alexa-Skills/What-If-Skill,collect data name,nobody remembers your name
+repos/lefthandsimon/genericPreschooler,collect data name,"don't be shy, we're all friends here. what's your name?"
+repos/lefthandsimon/genericPreschooler,collect data age,"hi i'm pogo, your cbeebies friend, you can say play a game, tell me a story or just chat... ask me a question like how old are you?"
+repos/limeman38/Alexa/awsFactSkill,collect data name,you can introduce yourself by telling me your name
+repos/limeman38/games/Alexa/awsFactSkill,collect data name,you can introduce yourself by telling me your name
+repos/LucasGauterio/alexa,collect data name,you can introduce yourself by telling me your name
+repos/maciekzdaleka/Bray-Train-Times,collect data name,you can introduce yourself by telling me your name
+repos/MegaFoodBlue/avocado-alexa,collect data age,"help me, help you by telling me your age and gender?"
+repos/MegaFoodBlue/avocado-alexa,collect data age,we can start by telling me your age and gender?
+repos/MEHEDl/AlexaAudioPlayer,collect data name,you can introduce yourself by telling me your name
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/29_Obtain Device Information,collect data address,not found your address
+repos/mgaringoDev/customAlexaVoiceDBConnection,collect data name,you can introduce yourself by telling me your name
+repos/mhaveliwala/alexa-covid-skill,collect data name,you can introduce yourself by telling me your name
+repos/microsaurav/Alexa/client,collect data name,you can introduce yourself by telling me your name
+repos/MikeAlphaXray/KaraEcho-HowdyHack-2021,collect data name,you can introduce yourself by telling me your name
+repos/MJR113/ask-wheel-of-lunch-skill,collect data address,welcome to ${settings.skill_name}!  this skill will help you make dining choices based on your address.  just say 'spin the wheel' and a random dining selection will be chosen.
+repos/MONESH-D/Alexa-1,collect data name,you can introduce yourself by telling me your name
+repos/MuhammadHamzaFarooq/Weather-App-Alexa,collect data location,i can tell you the current weather. what's your location?
+repos/nationwidehackathon/analysis-paralysis/alexa-skill,collect data email,please check your email for the accident location.
+repos/nationwidehackathon/analysis-paralysis/alexa-skill,collect data location,your accident location
+repos/niteshbharti005101/XploVR/AWS Backend/VG_1,collect data birthday,hello! welcome to cake walk. what is your birthday?
+repos/niteshbharti005101/XploVR/AWS Backend/VG_2,collect data birthday,hello! welcome to cake walk. what is your birthday?
+repos/niteshbharti005101/XploVR/AWS Backend/VG_3,collect data birthday,hello! welcome to cake walk. what is your birthday?
+repos/niteshbharti005101/XploVR/AWS Backend/VG_4,collect data birthday,hello! welcome to cake walk. what is your birthday?
+repos/niteshbharti005101/XploVR/AWS Backend/VG_5,collect data birthday,hello! welcome to cake walk. what is your birthday?
+repos/niteshbharti005101/XploVR/AWS Backend/VG_6,collect data birthday,hello! welcome to cake walk. what is your birthday?
+repos/niteshbharti005101/XploVR/AWS Backend/VG_7,collect data birthday,hello! welcome to cake walk. what is your birthday?
+repos/niteshbharti005101/XploVR/AWS Backend/VG10,collect data birthday,hello! welcome to cake walk. what is your birthday?
+repos/niteshbharti005101/XploVR/AWS Backend/VG11,collect data birthday,hello! welcome to cake walk. what is your birthday?
+repos/niteshbharti005101/XploVR/AWS Backend/VG12,collect data birthday,hello! welcome to cake walk. what is your birthday?
+repos/niteshbharti005101/XploVR/AWS Backend/VG13,collect data birthday,hello! welcome to cake walk. what is your birthday?
+repos/niteshbharti005101/XploVR/AWS Backend/VG14,collect data birthday,hello! welcome to cake walk. what is your birthday?
+repos/niteshbharti005101/XploVR/AWS Backend/VG15,collect data birthday,hello! welcome to cake walk. what is your birthday?
+repos/niteshbharti005101/XploVR/AWS Backend/VG8,collect data birthday,hello! welcome to cake walk. what is your birthday?
+repos/niteshbharti005101/XploVR/AWS Backend/VG9,collect data birthday,hello! welcome to cake walk. what is your birthday?
+repos/oddguan/highmark-alexa,collect data name,"highmark health invites users to contact us using inquiry forms available on our corporate-owned platforms for account questions or to learn more about our products and services. the personal information we request on inquiry forms generally includes your name, address, phone number, email address, and the details of your inquiry. we may use such information to review and respond to your request or communication, or use contracted service providers to do that for us. "
+repos/oddguan/highmark-alexa,collect data address,your street address is %s. 
+repos/Peter-Aloisi-PFG/Reinhart_FoodService,collect data email,"we are sorry, we cannot find your email in our database, please contact customer support to add your email that you use for your alexa, to your reinhart account"
+repos/phoebe-assistant/dynamo-cards,collect data name,you can introduce yourself by telling me your name
+repos/praveenkavedi/AlexaTherapist,collect data name,you can introduce yourself by telling me your name
+repos/Preeti728/SoftWidget,collect data name,you can introduce yourself by telling me your name
+repos/rneiva/Astronautas,collect data name,you can introduce yourself by telling me your name
+repos/rramsisa/VITA/alexa,collect data name,you can introduce yourself by telling me your name
+repos/saadeddinne/test,collect data name,you can introduce yourself by telling me your name
+repos/SCCapstone/CognitoFormsDev/cognito_form,collect data phone number,"? say answer, followed by your phone number."
+repos/ScottKwang/CodeWithFriends-Spring2020/projects,collect data email,"you are registered now, check a message on your email to log in"
+repos/ScottKwang/CodeWithFriends-Spring2020/projects,collect data email,you have not confirmed your account. check your email
+repos/ScottKwang/CodeWithFriends-Spring2020/projects,collect data name,your name
+repos/shivangi4742/Myalexaskill,collect data name,you can introduce yourself by telling me your name
+repos/shivangi4742/reactnative/bkp/oneture/alexa/api-starter-alexa-master,collect data name,you can introduce yourself by telling me your name
+repos/sifahad-amzn/driving-directions,collect data location,your location
+repos/Skoo84/Magic-Mirror/alexa skill,collect data name,you can introduce yourself by telling me your name
+repos/sntrenter/FA2020GroupProject/React/app/src,collect data email,please input your email!
+repos/sntrenter/FA2020GroupProject/React/app/src,collect data name,please input your full name!
+repos/stackery/alexa-reinvent-quiz/src,collect data name,<say-as interpret-as='interjection'>what a great score! is your name werner?</say-as><break strength='strong'/>  
+repos/TheDreamSaver/alexa-workshop-convoke/API Caller,collect data name,you can introduce yourself by telling me your name
+repos/TheDreamSaver/alexa-workshop-convoke/Hello World,collect data name,you can introduce yourself by telling me your name
+repos/thierryh9/RocketElevators-AI,collect data name,you can introduce yourself by telling me your name
+repos/tienwei/smart-claims/alexa-skill/quiz-game,collect data name,could you let us know your name?
+repos/umoazzam/covid_tracker_dubhacks_2020,collect data name,you can introduce yourself by telling me your name
+repos/ValBeaupre/RocketElevators-AI,collect data name,you can introduce yourself by telling me your name
+repos/vijayanandpg6/Climb-Fall,collect data name,whats your name?
+repos/Voice-First-AI/write-by-voice/write-to-medium-by-voice,collect data email, check your email for the next step. thanks for writing by voice!
+repos/vpayette/skill-sample-node-device-location-api,collect data location,it looks like we did not obtain your location. please try again.
+repos/vpayette/skill-sample-node-device-location-api,collect data location,somehow we did not get your location
+repos/wrongholt/Rainbow-Words,collect data name,you can introduce yourself by telling me your name
+repos/xengravity/amazon-pay-alexa-v2-demo,collect data address, {producttype} is {productprice} dollars and will ship to your address at {shippingaddress}.<break time=".5s"/>
+repos/ysunaw/voice-questionnaire/alexa-dynamodb-starter,collect data name,you can introduce yourself by telling me your name
+repos/zanemx/what-can-i-grow,collect data zip code,unable to fetch your zip code. goodbye.

@@ -1,0 +1,12 @@
+first name
+last name
+full name
+user name
+postal code
+zip code
+social security number
+passport number
+driver license
+account number
+debit card numbers
+credit card numbers

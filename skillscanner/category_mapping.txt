@@ -1,0 +1,151 @@
+Accessories	Music & Audio
+Alarms_and_Clocks	Utilities
+Alphabet	Kids
+Ambient_Sounds	Kids
+Arts_and_Culture	Kids
+Astrology	Lifestyle
+Business_and_Finance	Business & Finance
+Calculators	Utilities
+Calendars_and_Reminders	Utilities
+Card_Games	Games & Trivia
+CHILDRENS_EDUCATION_AND_REFERENCE	Kids
+CHILDRENS_GAMES	Kids
+CHILDRENS_LIFE_SKILLS	Kids
+CHILDRENS_MEMORY_GAMES	Kids
+CHILDRENS_MOVIE_AND_TV_GAMES	Kids
+CHILDRENS_MUSIC	Kids
+CHILDRENS_MUSIC_AND_AUDIO	Kids
+CHILDRENS_NOVELTY_AND_HUMOR	Kids
+CHILDRENS_Party_Games	Kids
+CHILDRENS_Podcasts	Kids
+CHILDRENS_Quiz_Games	Kids
+CHILDRENS_RADIO	Kids
+CHILDRENS_Tabletop_Games	Kids
+CHOOSE_YOUR_OWN_STORY	Games & Trivia
+Choose_Your_Own_Story_Games	Games & Trivia
+Communication	Social
+Connected_Car	Connected Car
+COOKING_AND_RECIPE	Food & Drink
+Cooking_and_Recipes	Food & Drink
+Creativity	Kids
+Currency_Guides_and_Converters	Travel & Transportation
+Dating	Social
+Delivery_and_Takeout	Food & Drink
+Device_Tracking	Utilities
+Early_Learning	Kids
+Education_and_Reference	Education & Reference
+Educational_Games	Games & Trivia
+Event_Finders	Lifestyle
+Exercise_and_Workout	Sports
+Fashion_and_Style	Lifestyle
+Flight_Finders	Travel & Transportation
+Food_and_Drink	Food & Drink
+Foreign_Languages	Kids
+Friends_and_Family	Social
+Game_Info_and_Accessories	Games & Trivia
+GAME_INFO_AND_ACCESSORY	Games & Trivia
+Game_Show_Games	Games & Trivia
+Games	Sports
+Games_and_Trivia	Games & Trivia
+Geography	Kids
+Grammar_and_Vocabulary	Kids
+Health_and_Fitness	Health & Fitness
+Health_and_Wellness	Kids
+History	Kids
+Holiday_Games	Games & Trivia
+Holidays	Kids
+HOME	Lifestyle
+Home_Services	Lifestyle
+Hotel_Finders	Travel & Transportation
+Interactive_Stories	Kids
+Kids	Kids
+KNOWLEDGE_AND_TRIVIA	Games & Trivia
+Lean_Back_and_Listen	Kids
+Life_Skills	Kids
+Lifestyle	Lifestyle
+Local	Local
+Logic_and_Reasoning	Kids
+Math	Kids
+Medicine_and_Anatomy	Kids
+Meditation_and_Mindfulness	Kids
+Memory_and_Concentration	Kids
+Memory_Games	Games & Trivia
+Movement_and_Activity	Kids
+Movie_and_TV_Games	Games & Trivia
+MOVIE_AND_TV_KNOWLEDGE_AND_TRIVIA	Movies & TV
+Movie_Info_and_Reviews	Movies & TV
+Movie_Showtimes	Movies & TV
+Movies_and_TV	Movies & TV
+Music	Kids
+Music_and_Audio	Music & Audio
+MUSIC_AND_AUDIO_ACCESSORIES	Music & Audio
+MUSIC_AND_AUDIO_ACCESSORISE	Music & Audio
+MUSIC_AND_AUDIO_KNOWLEDGE_AND_TRIVIA	Music & Audio
+Music_and_Rhythm_Games	Kids
+Music_Games	Games & Trivia
+Music_Info,_Reviews_and_Recognition_Services	Music & Audio
+MUSIC_INFO_REVIEWS_AND_RECOGNITION_SERVICE	Music & Audio
+Mystery_Games	Games & Trivia
+Nature_and_Animals	Kids
+NAVIGATION_AND_TRIP_PLANNER	Travel & Transportation
+Navigation_and_Trip_Planners	Travel & Transportation
+News	News
+NOVELTY	Novelty & Humor
+NOVELTY_&_HUMOR_GAMES	Games & Trivia
+Novelty_and_Humor	Novelty & Humor
+Novelty_and_Humor_Games	Games & Trivia
+Novelty_Humor	Kids
+Organizers_and_Assistants	Productivity
+Party_Games	Games & Trivia
+PETS_AND_ANIMAL	Lifestyle
+Pets_and_Animals	Lifestyle
+PODCAST	Music & Audio
+Podcasts	Music & Audio
+Popular_Characters	Kids
+Problem_Solving	Kids
+Productivity	Productivity
+Public_Transportation	Travel & Transportation
+Puzzle_Games	Games & Trivia
+PUZZLES	Games & Trivia
+Quiz_Games	Games & Trivia
+QUIZZES	Games & Trivia
+Quotes	Kids
+Radio	Kids
+Reading	Kids
+Religion_and_Spirituality	Lifestyle
+Restaurant_Booking,_Info_and_Reviews	Food & Drink
+RESTAURANT_BOOKING_INFO_AND_REVIEW	Food & Drink
+Role_Playing_Games	Games & Trivia
+Schools	Local
+Science	Kids
+Score_Keeping	Sports
+Self_Improvement	Lifestyle
+Shopping	Shopping
+Smart_Home	Smart Home
+Social	Social
+Social_Networking	Social
+Speech	Kids
+Sports	Sports
+SPORTS_GAMES	Sports
+SPORTS_NEWS	Sports
+Stories	Kids
+Strategy_and_Pattern_Games	Kids
+Strategy_Games	Games & Trivia
+STREAMING_SERVICE	Music & Audio
+Streaming_Services	Music & Audio
+Tabletop_Games	Games & Trivia
+Taxi_and_Ridesharing	Travel & Transportation
+Test_Preparation	Kids
+TO_DO_LISTS_AND_NOTES	Productivity
+To-Do_Lists_and_Notes	Productivity
+TRANSLATORS	Travel & Transportation
+Translators","value	Travel & Transportation
+Travel_and_Transportation	Travel & Transportation
+TV_Guides	Movies & TV
+Unit_Converters	Utilities
+Utilities	Utilities
+Weather	Weather
+WINE_AND_BEVERAGE	Food & Drink
+Word_and_Categorization_Games	Kids
+Writing	Kids
+Zip_Code_Lookup	Utilities

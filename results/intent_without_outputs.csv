@@ -1,0 +1,246 @@
+skill,intent,slot_name,slot_type
+repos/actionably/skill-sample-nodejs-hello-world-v1,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/adrianalic/aws-ai-qna-bot/test/alexa/test,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/adrian-grajdeanu/test/test/alexa/test,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/alexa/alexa-cookbook/feature-demos/skill-demo-dialog-delegate,PlanMyTripIntent,fromCity,AMAZON.US_CITY
+repos/alexa/alexa-cookbook/feature-demos/skill-demo-intent-chaining-auto-delegate,PlanMyTripIntent,fromCity,AMAZON.US_CITY
+repos/alexadev1/Hackster.IO,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/alexa-dev-hub/alexa-skill-guess-my-character,CharacterDescriptionIntent,age,AMAZON.NUMBER
+repos/alexa-dev-hub/alexa-skill-guess-my-character,CharacterDescriptionIntent,gender,GenderType
+repos/AlexaGroover/AlexaProject/13_Update Lambda Function,DisplayGreetings,PersonName,AMAZON.Person
+repos/AlexaGroover/AlexaProject/15_Use Alexa SDK v1 Apdapter,DisplayGreetings,PersonName,AMAZON.Person
+repos/AlexaGroover/AlexaProject/16_Using ResponseBuilder in Alexa SDK v1,DisplayGreetings,PersonName,AMAZON.Person
+repos/AlexaGroover/AlexaProject/18_Use CloudWatch,DisplayGreetings,PersonName,AMAZON.Person
+repos/AlexaGroover/AlexaProject/20_Using Cards,DisplayGreetings,PersonName,AMAZON.Person
+repos/AlexaGroover/AlexaProject/21_Generate Audio using SSML,DisplayGreetings,PersonName,AMAZON.Person
+repos/AlexaGroover/AlexaProject/22_Using Audio Directive,DisplayGreetings,PersonName,AMAZON.Person
+repos/AlexaGroover/AlexaProject/23_Using Video Directive,DisplayGreetings,PersonName,AMAZON.Person
+repos/AlexaGroover/AlexaProject/24_Using Hints in Card,DisplayGreetings,PersonName,AMAZON.Person
+repos/AlexaGroover/AlexaProject/25_Delegate Directive,IntroWithAge,PersonName,AMAZON.Person
+repos/AlexaGroover/AlexaProject/25_Delegate Directive,IntroWithAge,Age,AMAZON.NUMBER
+repos/AlexaGroover/AlexaProject/26_ElicitSlot Directive,IntroWithAge,Age,AMAZON.NUMBER
+repos/AlexaGroover/AlexaProject/26_ElicitSlot Directive,AddUserPrefrence,CountryName,AMAZON.Country
+repos/AlexaGroover/AlexaProject/27_ConfirmSlot Directive,IntroWithAge,Age,AMAZON.NUMBER
+repos/AlexaGroover/AlexaProject/27_ConfirmSlot Directive,AddUserPrefrence,CountryName,AMAZON.Country
+repos/AlexaGroover/AlexaProject/28_ConfirmIntent Directive,IntroWithAge,Age,AMAZON.NUMBER
+repos/AlexaGroover/AlexaProject/28_ConfirmIntent Directive,AddUserPrefrence,CountryName,AMAZON.Country
+repos/AlexaGroover/AlexaProject/29_Obtain Device Information,DisplayGreetings,PersonName,AMAZON.Person
+repos/AlexaGroover/AlexaProject/30_Store data in DynamoDB,IntroWithAge,Age,AMAZON.NUMBER
+repos/AlexaGroover/AlexaProject/30_Store data in DynamoDB,AddUserPrefrence,CountryName,AMAZON.Country
+repos/AlexaGroover/AlexaProject/31_Account Linking,IntroWithAge,Age,AMAZON.NUMBER
+repos/AlexaGroover/AlexaProject/31_Account Linking,AddUserPrefrence,CountryName,AMAZON.Country
+repos/AlexaGroover/AlexaProject/32_State Management,PersonNameIntent,PersonName,AMAZON.Person
+repos/AlexaGroover/AlexaProject/33_Use Multi language,PersonNameIntent,PersonName,AMAZON.Person
+repos/alexa-labs/alexa-dev-days/iot/update-shadow,CityIntent,city,AMAZON.EUROPE_CITY
+repos/alexapoc/small-business-lead-form-skill,SmallBusinessLeadFormIntent,firstName,AMAZON.FirstName
+repos/alexapoc/small-business-lead-form-skill,SmallBusinessLeadFormIntent,lastName,AMAZON.Person
+repos/alexapoc/small-business-lead-form-skill,SmallBusinessLeadFormIntent,contactNumber,AMAZON.PhoneNumber
+repos/alexapoc/small-business-lead-form-skill,SmallBusinessLeadFormIntent,emailAddress,AMAZON.SearchQuery
+repos/alexapoc/small-business-lead-form-skill,SmallBusinessLeadFormIntent,tempNumber,AMAZON.PhoneNumber
+repos/alexa-samples/dialog-delegate-demo,PlanMyTripIntent,fromCity,AMAZON.US_CITY
+repos/alexa-samples/intent-chaining-auto-delegate-demo,PlanMyTripIntent,fromCity,AMAZON.US_CITY
+repos/alexa-samples/skill-sample-nodejs-gift-idea,GiftIdea,name,AMAZON.US_FIRST_NAME
+repos/alexa-samples/skill-sample-nodejs-gift-idea,Card,name,AMAZON.US_FIRST_NAME
+repos/alexa-samples/skill-sample-nodejs-trivia-pal,UserLocation,city,AMAZON.US_CITY
+repos/anca1243/house-sharing,MoveIntent,city,AMAZON.VideoGame
+repos/Andres9710/Skill/amzn1.ask.skill.a5d29947-b0d6-4a9a-8637-7ac6035ca7d1 (1),MenuIntent,nombre,AMAZON.FirstName
+repos/Andres9710/Skill/amzn1.ask.skill.a5d29947-b0d6-4a9a-8637-7ac6035ca7d1 (1),RegistrarCitaIntent,cliente,AMAZON.FirstName
+repos/AndrooTheChen/day-zero,RegisterNewHireIntent,manager_name,AMAZON.US_FIRST_NAME
+repos/AndrooTheChen/day-zero,RegisterNameIntent,name,AMAZON.US_FIRST_NAME
+repos/ankkal/accountlinkingdemo/Plan_my_trip_-_accountlinking_Demo,PlanMyTripIntent,fromCity,AMAZON.US_CITY
+repos/annaanx24/TechKNOWledgy/TechKNOWledgy,CaptureUserAgeIntent,age,AMAZON.EducationalOrganization
+repos/annaanx24/TechKNOWledgy/TechKNOWledgy,CaptureUserGenderIntent,gender,AMAZON.Anaphor
+repos/annalenastrx/ClothingRecommendation/SkillDownload,WeatherTestIntent,cityslot,AMAZON.City
+repos/annalenastrx/ClothingRecommendation/VSCodeDownload,WeatherTestIntent,cityslot,AMAZON.City
+repos/antointbt/my-cougar-assistant,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/anusreebasu/Alexa-Skill-Replica-Test,CheckTemperature,city,AMAZON.City
+repos/Arniox/Voice-Application---SONNAR/Alexa Version/MemoryGameAlexa,NameIntent,name,AMAZON.FirstName
+repos/aws-samples/simple-smart-mirror/smart-mirror-full/extracted,MirrorMirror,Name,AMAZON.FirstName
+repos/babybuddy/babybuddy-alexa-skill,StopTummyTimeIntent,Name,AMAZON.SearchQuery
+repos/baumgab1-matc/ITDEV-140-Programming-With-Java/Alexa,AddNameIntent,name,AMAZON.FirstName
+repos/bdeshong/alexa-workshop,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/bhuvneshkr/Alexa-Skill-DayZero,RegisterNewHireIntent,manager_name,AMAZON.US_FIRST_NAME
+repos/bhuvneshkr/Alexa-Skill-DayZero,RegisterNameIntent,name,AMAZON.US_FIRST_NAME
+repos/bibr/alexa/janlexa,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/briggsrogers/project-murphy-alexa/context/skill-events,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/bur/phx-innovate,ContainerIntent,containerLocation,containerLocationType
+repos/carlotorniai/TestSkill,Matchsearch,country,AMAZON.Country
+repos/carlotorniai/TestSkill,Stats,country,AMAZON.Country
+repos/cbonoz/alexagood18/city-bikes,StationIntent,StreetName,AMAZON.PostalAddress
+repos/cbonoz/city-biking,StationIntent,StreetName,AMAZON.PostalAddress
+repos/Cheesetouched/Hireoo/Alexa Skill,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/chowdhary987/alexa-cookbook/context/skill-events,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/cjain12/beauty_store,infoDetails,name,AMAZON.FirstName
+repos/cjain12/beauty_store,infoDetails,mobile,AMAZON.PhoneNumber
+repos/cmartin009/test-app,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/codefellows/john-java/class-44/demo/alexa-test/guessing-game/amzn1.ask.skill.78bd7e12-fd1a-4d8d-af5f-20fdd19bc7e6,NameIntroductionIntent,name,AMAZON.STRING
+repos/codefellows/seattle-code-java-401d14/class-44/demo/alexa-test/guessing-game/amzn1.ask.skill.78bd7e12-fd1a-4d8d-af5f-20fdd19bc7e6,NameIntroductionIntent,name,AMAZON.STRING
+repos/codefellows/seattle-java-401d11/class-44/demo/alexa-test/guessing-game/amzn1.ask.skill.78bd7e12-fd1a-4d8d-af5f-20fdd19bc7e6,NameIntroductionIntent,name,AMAZON.STRING
+repos/codefellows/seattle-java-401d8/class-44/alexa-test/guessing-game/amzn1.ask.skill.78bd7e12-fd1a-4d8d-af5f-20fdd19bc7e6,NameIntroductionIntent,name,AMAZON.STRING
+repos/cyberyu/hackathon_vv/alexa-cookbook/context/skill-events,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/danbwhiting/hypersensitivity-to-audio-skill,GetName,name,AMAZON.US_FIRST_NAME
+repos/daniel-woods/bodoni-alexa-skill,MeetingIntent,customer,AMAZON.US_FIRST_NAME
+repos/daniel-woods/bodoni-alexa-skill,MeetingIntent,employee,AMAZON.US_FIRST_NAME
+repos/daniel-woods/bodoni-alexa-skill,MeetingIntent,employee_last_name,AMAZON.US_FIRST_NAME
+repos/deepakg23gmail/goingserverless,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/deepakworldphp86/JOVO-VOICE-GOOGLE-ALEXA/CLITest,MyNameIsIntent,name,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.given-name'}"
+repos/deepakworldphp86/JOVO-VOICE-GOOGLE-ALEXA/JOVOGoogleVoiceProject,MyNameIsIntent,name,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.given-name'}"
+repos/deepakworldphp86/JOVO-VOICE-GOOGLE-ALEXA/JovoTest,MyNameIsIntent,name,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.given-name'}"
+repos/dkaj1990/react-native-alexa-app/reactn-alexa/alexa,GetDocumentsByTitleIntent,DocumentName,AMAZON.City
+repos/Duskamo/TempCli/testSkill,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/EchoSkillTemplates/Alexa-basic-starter,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/eltonkola/alexa_skillz/birthdayday,YourBirthdayDate,birthday,AMAZON.DATE
+repos/falent/hack,NameIntent,my_name,AMAZON.US_FIRST_NAME
+repos/falent/hackIoT/AlexaNewSkill,NameIntent,name,AMAZON.US_FIRST_NAME
+repos/FasihAhmedRaza/hotel-booking--alexa,weatherIntent,cityName,AMAZON.City
+repos/Garrachonr/Final-Degree-Project/Alexa Console,NewNameIntent,UserNameSlot,AMAZON.FirstName
+repos/garystafford/alexa-skill-azure-facts,AzureFactsIntent,myName,AMAZON.US_FIRST_NAME
+repos/geosony/alexa-skill/bluehealth,CreateHCPAppointment,patient_name,AMAZON.FirstName
+repos/germanviscuso/PythonMeetup,SayMyNameIntent,name,AMAZON.FirstName
+repos/HackathonTeamRed2018/ProsChallenge2018/test,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/jasonwidrig/GenericQuiz,AnswerIntent,citySlot,capitalCities
+repos/jasonwidrig/GenericQuiz,AnswerIntent,stateSlot,states
+repos/jasonwidrig/StateCapitalsQuiz,AnswerIntent,citySlot,capitalCities
+repos/jasonwidrig/StateCapitalsQuiz,AnswerIntent,stateSlot,states
+repos/jitenagarwal19/alexa-skill,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/joeysmoll/alexa-ufc-picks,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/jtruong2/OfferAid_AlexaSkill,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/KanuGaba/Amazon-PreOnboarding-Alexa-Skill,RoommateSurveyIntent,office,AMAZON.AT_CITY
+repos/KanuGaba/Amazon-PreOnboarding-Alexa-Skill,RoommateSurveyIntent,gender,gender
+repos/kavuri/hotbot-conversations,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/kenjorion/alexa_FootballBase,RegisterFavoriteTeam,citySlot,AMAZON.City
+repos/lakshyamcs16/Alexa-Skills/my-skill,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/lingqiu3/Nurse-AMIE,AskMetastasesLocationIntent,location,Metastases_Location
+repos/lucasagostini/NicaProject,CountryIntent,country,AMAZON.Country
+repos/mahithasree-sakthikumar/health,Registration,name,AMAZON.FirstName
+repos/mahithasree-sakthikumar/health,Registration,phonenumber,AMAZON.PhoneNumber
+repos/mahithasree-sakthikumar/health,Registration,gender,AMAZON.FirstName
+repos/mahithasree-sakthikumar/health,Login,password,AMAZON.FirstName
+repos/mahithasree-sakthikumar/health,virtualpillbox,virtual_med,AMAZON.FirstName
+repos/mahithasree-sakthikumar/health,setReminder,phonenum,AMAZON.PhoneNumber
+repos/mahithasree-sakthikumar/health,AddingMedicines,morningslot,AMAZON.FirstName
+repos/mahithasree-sakthikumar/health,AddingMedicines,afternoonslot,AMAZON.FirstName
+repos/mahithasree-sakthikumar/health,AddingMedicines,eveningslot,AMAZON.FirstName
+repos/mahithasree-sakthikumar/health,AddingMedicines,nightslot,AMAZON.FirstName
+repos/mahithasree-sakthikumar/healthy/amzn1.ask.skill.3344eb9f-a862-43d5-95c3-b73ec59dcb35,Registration,name,AMAZON.FirstName
+repos/mahithasree-sakthikumar/healthy/amzn1.ask.skill.3344eb9f-a862-43d5-95c3-b73ec59dcb35,Registration,phonenumber,AMAZON.PhoneNumber
+repos/mahithasree-sakthikumar/healthy/amzn1.ask.skill.3344eb9f-a862-43d5-95c3-b73ec59dcb35,Registration,gender,AMAZON.FirstName
+repos/mahithasree-sakthikumar/healthy/amzn1.ask.skill.3344eb9f-a862-43d5-95c3-b73ec59dcb35,Login,password,AMAZON.FirstName
+repos/mahithasree-sakthikumar/healthy/amzn1.ask.skill.3344eb9f-a862-43d5-95c3-b73ec59dcb35,virtualpillbox,virtual_med,AMAZON.FirstName
+repos/mahithasree-sakthikumar/healthy/amzn1.ask.skill.3344eb9f-a862-43d5-95c3-b73ec59dcb35,setReminder,phonenum,AMAZON.PhoneNumber
+repos/mahithasree-sakthikumar/healthy/amzn1.ask.skill.3344eb9f-a862-43d5-95c3-b73ec59dcb35,AddingMedicines,morningslot,AMAZON.FirstName
+repos/mahithasree-sakthikumar/healthy/amzn1.ask.skill.3344eb9f-a862-43d5-95c3-b73ec59dcb35,AddingMedicines,afternoonslot,AMAZON.FirstName
+repos/mahithasree-sakthikumar/healthy/amzn1.ask.skill.3344eb9f-a862-43d5-95c3-b73ec59dcb35,AddingMedicines,eveningslot,AMAZON.FirstName
+repos/mahithasree-sakthikumar/healthy/amzn1.ask.skill.3344eb9f-a862-43d5-95c3-b73ec59dcb35,AddingMedicines,nightslot,AMAZON.FirstName
+repos/mahithasree-sakthikumar/helloworld/mahitas,Registration,First_Name,AMAZON.FirstName
+repos/mahithasree-sakthikumar/helloworld/mahitas,Registration,Last_Name,AMAZON.FirstName
+repos/mahithasree-sakthikumar/helloworld/mahitas,Registration,Gender,AMAZON.FirstName
+repos/mahithasree-sakthikumar/helloworld/mahitas,Registration,Mobile_No,AMAZON.PhoneNumber
+repos/mahithasree-sakthikumar/helloworld/mahitas,Registration,profession,AMAZON.FirstName
+repos/mahithasree-sakthikumar/helloworld/mahitas,Login,profession,AMAZON.FirstName
+repos/mahithasree-sakthikumar/helloworld/mahitas,ViewOtherPoint,profession,AMAZON.FirstName
+repos/Makerdemy/Alexa-skills-in-24-hours/Section 3/3.2/Habitat skill,NameIntent,name,AMAZON.US_FIRST_NAME
+repos/Makerdemy/Alexa-skills-in-24-hours/Section 3/3.2/Habitat skill,HomeIntent,city,AMAZON.US_CITY
+repos/malhotra-vikas/alexa-cookbook/feature-demos/skill-demo-dialog-delegate,PlanMyTripIntent,fromCity,AMAZON.US_CITY
+repos/manuel1507/receptionist,MeetingIntent,customer,AMAZON.US_FIRST_NAME
+repos/manuel1507/receptionist,MeetingIntent,employee,AMAZON.US_FIRST_NAME
+repos/manuel1507/receptionist,MeetingIntent,employee_last_name,AMAZON.US_FIRST_NAME
+repos/marxtrader/lullaby-baby/alexa-notifier,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/megantosh/AlexaImAmt/src/Tutorials/myPetMatch,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/13_Update Lambda Function,DisplayGreetings,PersonName,AMAZON.Person
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/15_Use Alexa SDK v1 Apdapter,DisplayGreetings,PersonName,AMAZON.Person
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/16_Using ResponseBuilder in Alexa SDK v1,DisplayGreetings,PersonName,AMAZON.Person
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/18_Use CloudWatch,DisplayGreetings,PersonName,AMAZON.Person
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/20_Using Cards,DisplayGreetings,PersonName,AMAZON.Person
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/21_Generate Audio using SSML,DisplayGreetings,PersonName,AMAZON.Person
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/22_Using Audio Directive,DisplayGreetings,PersonName,AMAZON.Person
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/23_Using Video Directive,DisplayGreetings,PersonName,AMAZON.Person
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/24_Using Hints in Card,DisplayGreetings,PersonName,AMAZON.Person
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/25_Delegate Directive,IntroWithAge,PersonName,AMAZON.Person
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/25_Delegate Directive,IntroWithAge,Age,AMAZON.NUMBER
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/26_ElicitSlot Directive,IntroWithAge,Age,AMAZON.NUMBER
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/26_ElicitSlot Directive,AddUserPrefrence,CountryName,AMAZON.Country
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/27_ConfirmSlot Directive,IntroWithAge,Age,AMAZON.NUMBER
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/27_ConfirmSlot Directive,AddUserPrefrence,CountryName,AMAZON.Country
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/28_ConfirmIntent Directive,IntroWithAge,Age,AMAZON.NUMBER
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/28_ConfirmIntent Directive,AddUserPrefrence,CountryName,AMAZON.Country
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/29_Obtain Device Information,DisplayGreetings,PersonName,AMAZON.Person
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/30_Store data in DynamoDB,IntroWithAge,Age,AMAZON.NUMBER
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/30_Store data in DynamoDB,AddUserPrefrence,CountryName,AMAZON.Country
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/31_Account Linking,IntroWithAge,Age,AMAZON.NUMBER
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/31_Account Linking,AddUserPrefrence,CountryName,AMAZON.Country
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/32_State Management,PersonNameIntent,PersonName,AMAZON.Person
+repos/mehtanilay10/Custom-Alexa-Skill-Tutorials/33_Use Multi language,PersonNameIntent,PersonName,AMAZON.Person
+repos/miugel/guacRecruiter,GetNameIntent,name,AMAZON.US_FIRST_NAME
+repos/MnHung/alexa-custom-skill-boilerplate,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/mobiletta/alexa/templates/skill-demo-dialog-delegate,PlanMyTripIntent,fromCity,AMAZON.US_CITY
+repos/Mohammad-Khalid/UtilityCodeBase/alexa/dialogDelegate,PlanMyTripIntent,toCity,AMAZON.US_CITY
+repos/monosay/monosay-nodejs/src/samples/simple/jovo,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/mori-c/voice-agent/jovo-cli,MyNameIsIntent,name,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.given-name'}"
+repos/mpgoulet/get-me-watson,WatsonIntent,fromCity,AMAZON.US_CITY
+repos/MrLordBrown/spirithuntz/.deploy/test/.ask/lambda,CatchAllSlotIntent,playerName,AMAZON.US_FIRST_NAME
+repos/MrLordBrown/spirithuntz/.deploy/test/lambda,CatchAllSlotIntent,playerName,AMAZON.US_FIRST_NAME
+repos/Nickeem/AlexaVisitorSkill,RecordNewVisitorIntent,phone_number,AMAZON.PhoneNumber
+repos/nithinkumarhere/srskills,CountryRestrictions,country,AMAZON.Country
+repos/nithinkumarhere/srskills,ExportLicense,country,AMAZON.Country
+repos/NithishB/alexa-skill-1/alexa-leadership-skill-flow/alexa-hackathon/.deploy/alexa-hackathon/lambda/custom,CatchAllSlotIntent,playerName,AMAZON.US_FIRST_NAME
+repos/npdevapp/alexa_resources/context/skill-events,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/npdevapp/alexa_resources/feature-demos/skill-demo-plan-my-trip,PlanMyTripIntent,fromCity,AMAZON.US_CITY
+repos/ocelotconsulting/voice-framework-boilerplate,APhoneNumber,phoneNumber,AMAZON.PhoneNumber
+repos/onumtiger/ultron,setupIntent,name,AMAZON.FirstName
+repos/oren/fit-science,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/paulstuttard/DialOut,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/peabnuts123/alexa-skill-hackathon,WhoIntent,Name,AMAZON.US_FIRST_NAME
+repos/Pindar/alexa-template,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/pohora/MulesoftHackathon2020/mulesofthackathon2020/movid_frontend,SymptomCheckerIntent,age,AMAZON.NUMBER
+repos/pohora/MulesoftHackathon2020/mulesofthackathon2020/movid_frontend,SymptomCheckerIntent,gender,AMAZON.SearchQuery
+repos/Preeti728/SoftWidget,PutSoftWidgerOrderModifyIntent,Address,AMAZON.StreetAddress
+repos/Rafael-Z/amazon-alexa-skill-points-club/alexa-skill,RedeemFlightTicket,destination,AMAZON.US_CITY
+repos/Rafael-Z/amazon-alexa-skill-points-club/alexa-skill,RedeemFlightTicket,origin,AMAZON.US_CITY
+repos/rahulnagesh001/amzn1.ask.skill.0d43aa01-829a-4b70-a73f-a2200a69e939,SetMealIntent,companion,AMAZON.FirstName
+repos/rahulnagesh001/food-recall-/amzn1.ask.skill.0e940367-f4aa-442f-a8c0-0cd0d278d299,SetFoodIntent,companion,AMAZON.FirstName
+repos/rkj706/alexa,searchIntent,word,AMAZON.US_FIRST_NAME
+repos/Robbie0723/Covid,GetCountryDataIntent,country,AMAZON.Country
+repos/Robbie0723/Covid,GetStateDataIntent,state,AMAZON.US_STATE
+repos/robertavram-md/alexa-hf,MyNameIsIntent,name,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.given-name'}"
+repos/robm26/travel-browser,MyPhoneNumberIntent,mobileNumber,AMAZON.PhoneNumber
+repos/rrigato/burnday,BurnStatusIntent,burn_location,AMAZON.NUMBER
+repos/Ryguy11o/nurse_amie,NameIntent,name,AMAZON.FirstName
+repos/samviz/alexa-cookbook-master/alexa-cookbook-master/context/skill-events,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/sarfaraz-alam-md/aws-ai-qna-bot/test/alexa/test,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/sheheryarwaseem6/Voice-Weather-App,WeatherAppIntent,city,AMAZON.City
+repos/shkailas/TournamentApp,ReportLoss,loser,AMAZON.FirstName
+repos/shkailas/TournamentApp,ReportWinner,winner,AMAZON.FirstName
+repos/shrm-org/shrm-org-chatbot-v2/test/alexa/test,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/SmeechDE/smeech-wiki,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/spuder/alexa-astroprint,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/stammbach/jovo-hello-nested-components,MyNameIsIntent,name,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.given-name'}"
+repos/surajraj99/Plaza-Business,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/tingiris/dabblelab-youtube-channel/2017-09-15-home-cards/demo-home-cards,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/tingiris/dabblelab-youtube-channel/2017-09-22-local-lambda-testing/hello-world,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/TrCaM/CUAsking/cu-asking,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/TrCaM/CUAsking/cu-asking,SignInIntent,username,AMAZON.US_FIRST_NAME
+repos/uk-ar/alexa_convert,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/vincwang/alexa-covid19-tracker/source,CaptureStateIntent,state,AMAZON.US_STATE
+repos/VinodhKotipalli/AlexaSkillsSchedulingAssistant,UpdateCalendarIntent,PhoneNumber,AMAZON.PhoneNumber
+repos/VinodhKotipalli/AlexaSkillsSchedulingAssistant,CheckCalendarIntent,MeetingPerson,AMAZON.Person
+repos/Voice-First-AI/write-by-voice/write-to-medium-by-voice,WriteByVoiceIntent,sentence,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.any'}"
+repos/Voice-First-Tech/AirBnb-Dev-Quest/alex7li,MyNameIsIntent,name,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.given-name'}"
+repos/Voice-First-Tech/AirBnb-Dev-Quest/crazzywizard-airbnb,MyNameIsIntent,name,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.given-name'}"
+repos/Voice-First-Tech/AirBnb-Dev-Quest/getgrip-airbnb,MyNameIsIntent,name,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.given-name'}"
+repos/Voice-First-Tech/AirBnb-Dev-Quest/patrick-sweetman,MyNameIsIntent,name,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.given-name'}"
+repos/Voice-First-Tech/AirBnb-Dev-Quest/Randm25-airbnb,MyNameIsIntent,name,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.given-name'}"
+repos/Voice-First-Tech/AirBnb-Dev-Quest/sweetmantech-airbnb,MyNameIsIntent,name,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.given-name'}"
+repos/Voice-First-Tech/AirBnb-Dev-Quest/zack-airbnb,MyNameIsIntent,name,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.given-name'}"
+repos/Voice-First-Tech/Smart-Lock/chinzoo-zack,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/Voice-First-Tech/Smart-Lock/dcopdycke,MyNameIsIntent,name,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.given-name'}"
+repos/Voice-First-Tech/Smart-Lock/vipermark7,MyNameIsIntent,name,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.given-name'}"
+repos/Voice-First-Tech/Smart-Lock/voice-first-tech,MyNameIsIntent,name,"{'alexa': 'AMAZON.US_FIRST_NAME', 'dialogflow': '@sys.given-name'}"
+repos/wrongholt/Powers,NameIntent,DEName,AMAZON.DE_FIRST_NAME
+repos/wrongholt/Powers,NameIntent,GBName,AMAZON.GB_FIRST_NAME
+repos/wrongholt/Powers,NameIntent,Name,AMAZON.FirstName
+repos/yahoo/Makeskill/explorations/example_skills/SlotFilling_Study,FindMusicEventIntent,US_Cities,AMAZON.US_CITY
+repos/ydsingh/alexa/feature-demos/skill-demo-dialog-delegate,PlanMyTripIntent,fromCity,AMAZON.US_CITY
+repos/ydsingh/alexa/feature-demos/skill-demo-intent-chaining-auto-delegate,PlanMyTripIntent,fromCity,AMAZON.US_CITY
+repos/ynishi/urbanpark-alexa,MyNameIsIntent,name,AMAZON.US_FIRST_NAME
+repos/zahraessa/Indecisive,AddCityIntent,city,AMAZON.GB_CITY
