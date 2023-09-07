@@ -1,1 +1,1 @@
-This directory is for developers user study.
+This folder is for the questions of developers' user study.
