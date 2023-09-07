@@ -79,7 +79,7 @@ def get_skill_invocation_name_issue(skill_name, skill):
     word_issues = get_word_issue_skill(invocation_name)
     with open('results/' + skill_name +'/content_safety/invocation_name_issue.txt', 'w') as f:
         for issue in word_issues:
-            x = f.write(issue + '\n')
+            x = f.write('Invocation issue: ' + issue.replace('_', ' ') + '\n')
 
 
 def get_intents(skill):

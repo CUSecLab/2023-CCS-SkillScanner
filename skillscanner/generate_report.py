@@ -27,9 +27,9 @@ def get_content_safety(skill_name):
     all_issues = all_issues + read_results('results/' + skill_name + '/content_safety/outputs_positive_rating.csv')
     all_issues = all_issues + read_results('results/' + skill_name + '/content_safety/outputs_toxic.csv')
     all_issues = all_issues + read_results('results/' + skill_name + '/content_safety/malicious_html.csv')
-    all_issues = all_issues + open('results/' + skill_name + '/content_safety/category_data_collection.txt').read().split('\n')
-    all_issues = all_issues + open('results/' + skill_name + '/content_safety/invocation_name_issue.txt').read().split('\n')
-    all_issues = all_issues + open('results/' + skill_name + '/content_safety/health_lack_disclaimer.txt').read().split('\n')
+    all_issues = all_issues + [[issue] for issue in open('results/' + skill_name + '/content_safety/category_data_collection.txt').read().split('\n')]
+    all_issues = all_issues + [[issue] for issue in open('results/' + skill_name + '/content_safety/invocation_name_issue.txt').read().split('\n')]
+    all_issues = all_issues + [[issue] for issue in open('results/' + skill_name + '/content_safety/health_lack_disclaimer.txt').read().split('\n')]
     return all_issues
 
 
