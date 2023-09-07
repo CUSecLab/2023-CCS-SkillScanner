@@ -1,4 +1,4 @@
-# SkillScanner: Towards Policy-Compliant Alexa Skills Development Through Static Analysis
+# SkillScanner: Detecting Policy-Violating Voice Applications Through Static Analysis at the Development Phase
 ## Abstract
 The Amazon Alexa marketplace is the largest Voice Personal Assistant (VPA) platform with over 100,000 voice applications (i.e., skills) published to the skills store. In an effort to maintain the quality and trustworthiness of voice-apps, Amazon Alexa has implemented a set of policy requirements to be adhered to by third-party skill developers. However, recent works reveal the prevalence of policy-violating skills in the current skills store. To understand the causes of policy violations in skills, we first conduct a user study with 34 third-party skill developers focusing on whether they are aware of the various policy requirements defined by the Amazon Alexa platform. Our user study results show that there is a notable gap between VPA’s policy requirements and skill developers’ practices. As a result, it is inevitable that policy-violating skills will be published.
 
