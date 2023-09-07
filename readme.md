@@ -5,6 +5,6 @@ The Amazon Alexa marketplace is the largest Voice Personal Assistant (VPA) platf
 To prevent the inflow of new policy-breaking skills to the skills store from the source, it is critical to identify potential policy violations at the development phase. In this work, we design and develop SkillScanner , an efficient static code analysis tool to facilitate third-party developers to detect policy violations early in the skill devel- opment lifecycle. To evaluate the performance of SkillScanner, we conducted an empirical study on 2,451 open source skills collected from GitHub. SkillScanner effectively identified 1,328 different policy violations from 786 skills. Our results suggest that 32% of these policy violations are introduced through code duplication (i.e., code copy and paste). In particular, we found that 42 skill code examples from Alexa’s official accounts contain policy violations, which lead to 81 policy violations in other skills due to the copy-pasted code snippets from these Alexa’s code examples.
 
 ## System Overview
-![Overview](https://github.com/Skill-Scanner/SkillScanner/blob/main/image/system_overview.png)
+![Overview](https://github.com/CUSecLab/SkillScanner/blob/main/image/system_overview.png)
 ## Results
-![Results](https://github.com/Skill-Scanner/SkillScanner/blob/main/image/Results.png)
+![Results](https://github.com/CUSecLab/SkillScanner/blob/main/image/Results.png)
