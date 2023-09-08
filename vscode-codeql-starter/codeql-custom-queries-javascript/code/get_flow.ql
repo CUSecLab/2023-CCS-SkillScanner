@@ -15,14 +15,10 @@ import DataFlow::PathGraph
 class MyConfig extends TaintTracking::Configuration {
   MyConfig() { this = "MyConfig" }
   override predicate isSource(Node node) { 
-    node.getFile().toString().indexOf("/home/song/rsc") > -1 
-    and
     node.getFile().getFileType() = "javascript"
   }
 
   override predicate isSink(Node node) { 
-    node.getFile().toString().indexOf("/home/song/rsc") > -1  
-    and
     node.getFile().getFileType() = "javascript"
   }
 
@@ -46,8 +42,6 @@ class MyConfig extends TaintTracking::Configuration {
     exists(
     Token token
     |
-    token.getFile().toString().indexOf("/home/song/rsc") > -1
-    and
     token.toString() != ")"
     and
     token.getNextToken().toString() = "."
