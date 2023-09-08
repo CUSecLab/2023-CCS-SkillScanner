@@ -20,7 +20,7 @@ def write_all_results(skill_name, results):
 
 def get_content_safety(skill_name):
     all_issues = []
-    all_issues.append(['\nData collection in the skill code:'])
+    all_issues.append(['Data collection in the skill code:'])
     all_issues = all_issues + read_results('results/' + skill_name + '/content_safety/outputs_data_collection.csv')
     all_issues = all_issues + [['permission data collection', i[2]] for i in read_results('results/' + skill_name + '/privacy_violation/permissions.csv')]
     all_issues.append(['\nIssues in the skill code:'])
@@ -68,13 +68,12 @@ def get_report(skill_name, time_index, time_content, time_code, time_privacy, ti
         all_issues = all_issues + []
 
     with open('results/' + skill_name + '/report.txt', 'w') as f:
-        x = f.write(str(time_index) + '\t' + str(time_content) + '\t' + str(time_code) + '\t' + str(time_privacy) + '\t' + str(time_taint) + '\n')
-        #x = f.write('Scanning the skill cost: ' + str(time_index + time_content + time_code + time_privacy + time_taint) + 's.\n')
+        #x = f.write(str(time_index) + '\t' + str(time_content) + '\t' + str(time_code) + '\t' + str(time_privacy) + '\t' + str(time_taint) + '\n')
+        x = f.write('Scanning the skill cost: ' + str(time_index + time_content + time_code + time_privacy + time_taint) + 's.\n')
         x = f.write('The intent number is: ' + str(intent_number) + '\n')
         x = f.write('The slot number is: ' + str(slot_number) + '\n')
         x = f.write('The function number is: ' + str(function_number) + '\n')
         x = f.write('The sample number is: ' + str(sample_number) + '\n')
-
         for issue in all_issues:
             if issue == '' or issue == ['']:
                 continue
