@@ -13,14 +13,10 @@ import semmle.python.ApiGraphs
 class MyAnalysisConfiguration extends TaintTracking::Configuration {
   MyAnalysisConfiguration() { this = "MyAnalysisConfiguration" }
   override predicate isSource(DataFlow::Node source){
-    source.getLocation().toString().indexOf("/zfs/socbd/liao5/real-time-tweet/tweepy/codeql/skills") > -1
-    and
     source.getLocation().toString().indexOf(".py") > -1
   }
 
   override predicate isSink(DataFlow::Node sink){
-    sink.getLocation().toString().indexOf("/zfs/socbd/liao5/real-time-tweet/tweepy/codeql/skills") > -1
-    and
     sink.getLocation().toString().indexOf(".py") > -1
   }
 }
