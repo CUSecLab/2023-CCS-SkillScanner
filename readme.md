@@ -17,9 +17,10 @@ When you plan to scan a skill, go to the "skillscanner" folder and run with:
 
 
 ```bash
+pip install -r requirements.txt
 python scan_skills.py ../skills_code 1
 ```
 
-"1" means there might be several skills and "0" means only one skill.
+"1" means there might be several skills in the destination and "0" means only one skill. Ensure that all the skill files are in one folder.
 
 The results will be in the folder "skillscanner/results" and each skill will have a folder for storing results.
