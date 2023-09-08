@@ -119,9 +119,9 @@ def get_toxic_result(skill_name, outputs):
             response_dict = json.loads(response)
             if 'attributeScores' not in response_dict.keys():
                 continue
-            if response_dict['attributeScores']['PROFANITY']['summaryScore']['value'] < 0.85:
+            if response_dict['attributeScores']['PROFANITY']['summaryScore']['value'] < 0.9:
                 continue
-            if response_dict['attributeScores']['TOXICITY']['summaryScore']['value'] < 0.85:
+            if response_dict['attributeScores']['TOXICITY']['summaryScore']['value'] < 0.9:
                 continue
             toxic[sentence] = response_dict
         except:
