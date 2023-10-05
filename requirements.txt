@@ -1,0 +1,7 @@
+copydetect
+pytesseract
+pillow
+pytesseract
+pydub
+SpeechRecognition
+trafilatura
