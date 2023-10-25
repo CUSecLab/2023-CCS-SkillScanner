@@ -24,3 +24,22 @@ python scan_skills.py ../skills_code 1
 "1" means there might be several skills in the target folder and "0" means only one skill. Ensure that all the skill files are in one folder.
 
 The results will be in the folder "skillscanner/results" and each skill will have a folder for storing results.
+
+
+### Dataset
+
+To download all the skill code on GitHub platform (updated dataset), you can run:
+
+```bash
+python search_github.py
+python clone_repo.py
+```
+
+After generating report for each skill, you can run:
+
+
+```bash
+python summarize_results.py
+```
+
+And issues of all skills will be in the "summary" folder.
