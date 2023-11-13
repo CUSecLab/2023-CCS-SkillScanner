@@ -1,7 +1,7 @@
 from github import Github
 import time
 
-ACCESS_TOKEN = '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'
+ACCESS_TOKEN = open('tokens.txt').read().split('\n')[0]
 g = Github(ACCESS_TOKEN)
 print(g.get_user().get_repos())
 
