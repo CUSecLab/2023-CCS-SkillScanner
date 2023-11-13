@@ -48,7 +48,7 @@ python scan_skills.py ../skills_code 1
 The results will be in the folder "skillscanner/results" and each skill will have a folder for storing results. There will also be a report that summarizes all the results of the skill. The detailed results, such as different issues in code inconsistency will be saved in "results/skillname/code_inconsistency/issuename".
 
 
-### Dataset
+### Dataset 
 
 To download all the skill code on GitHub platform (updated dataset), you can run:
 
