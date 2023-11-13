@@ -18,6 +18,7 @@ When you plan to scan a skill, go to the "skillscanner" folder and run with:
 
 ```bash
 pip install -r requirements.txt
+python -m spacy download en_core_web_sm
 python scan_skills.py ../skills_code 1
 ```
 
@@ -35,7 +36,7 @@ python search_github.py
 python clone_repo.py
 ```
 
-After generating report for each skill, you can run:
+After generating a report for each skill, you can run:
 
 
 ```bash
