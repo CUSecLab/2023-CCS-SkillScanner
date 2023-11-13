@@ -1,5 +1,18 @@
 # SkillScanner: Detecting Policy-Violating Voice Applications Through Static Analysis at the Development Phase
 
+You can find our paper [here](https://arxiv.org/pdf/2309.05867.pdf). If you find our paper useful for you, please consider citing:
+
+
+@article{liao2023skillscanner,
+  title={SkillScanner: Detecting Policy-Violating Voice Applications Through Static Analysis at the Development Phase},
+  author={Liao, Song and Cheng, Long and Cai, Haipeng and Guo, Linke and Hu, Hongxin},
+  journal={arXiv preprint arXiv:2309.05867},
+  year={2023}
+}
+    
+
+
+
 ## System Overview
 ![Overview](https://github.com/CUSecLab/SkillScanner/blob/main/image/system_overview.png)
 ## Results
