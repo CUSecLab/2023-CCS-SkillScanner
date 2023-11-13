@@ -10,6 +10,8 @@ You can find our paper [here](https://arxiv.org/pdf/2309.05867.pdf). If you find
     year={2023}
 }
 
+In this repository, the folder "skillscanner" contains the code for skillscanner. "skills_code" contains one example skill code for testing. "user-study" folder includes the data about our user study. "results" folder contains the results in our work based on our dataset. The "image" folder contains some images for presentation.
+
 
 
 
