@@ -31,7 +31,7 @@ python scan_skills.py ../skills_code 1
 
 "1" means there might be several skills in the target folder and "0" means only one skill. Ensure that all the skill files are in one folder.
 
-The results will be in the folder "skillscanner/results" and each skill will have a folder for storing results.
+The results will be in the folder "skillscanner/results" and each skill will have a folder for storing results. There will also be a report that summarizes all the results of the skill. The detailed results, such as different issues in code inconsistency will be saved in "results/skillname/code_inconsistency/issuename".
 
 
 ### Dataset
