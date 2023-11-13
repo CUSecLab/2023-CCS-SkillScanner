@@ -16,8 +16,14 @@ def clone_repo(git_url, dst_url):
 
 
 if __name__ == "__main__":
-    links = open("alexa_links.txt").read().split('\n')[:-1]
-    links = [link[19:] for link in links]
+    #links = open("alexa_links.txt").read().split('\n')[:-1]
+    links = []
+    with open('../skills_code/all_skills_dataset.csv') as f:
+        reader = csv.reader(f)
+        for row in reader:
+            links.append(row[1])
+    links = [link[19:] for link in links[1:]]
+    x = os.system('mkdir repos')
     dst_url = "repos/"
     count = 0
     for link in links:
