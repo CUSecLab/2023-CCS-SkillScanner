@@ -31,6 +31,7 @@ def check_skill(root_path, folder):
     for skill in skills:
         skill_name = skill['root'].replace('/', '~').replace(' ', '@')
         if os.path.isfile('results/' + skill_name + '/report.txt'):
+            print(skill_name + " has been analyzed and skipping analyzing.")
             continue
         print(skill_name)
         time2 = time.time()
