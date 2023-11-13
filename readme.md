@@ -9,16 +9,23 @@
 
 ### Prerequisites
 
+You can download the necessary Python libraries with:
+
+```bash
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+```
+
 You need to download the CodeQL from [CodeQL](https://github.com/github/codeql-action/releases) to do the skill taint analysis.
 
 After downloading and unzipping it, rename it as "codeql-home" and put it in the root path of this repo.
+
+If you want to scan/download skill code datasets from GitHub or analyze skill content/html safety, you need to apply for tokens about GitHub, Google Perspective, and Virustotal. Then you need to put them in the "tokens.txt" file in the "skillscanner" folder.
 
 When you plan to scan a skill, go to the "skillscanner" folder and run with: 
 
 
 ```bash
-pip install -r requirements.txt
-python -m spacy download en_core_web_sm
 python scan_skills.py ../skills_code 1
 ```
 
