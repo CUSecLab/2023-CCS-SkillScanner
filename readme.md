@@ -34,7 +34,7 @@ python -m spacy download en_core_web_sm
 
 You need to download the CodeQL from [CodeQL](https://github.com/github/codeql-action/releases) to do the skill taint analysis.
 
-In our version, we used the CodeQL version v2.13.1. Our system version is Ubuntu 16.04 and the Python version is 3.6.
+In our version, we used the CodeQL version v2.13.1. We ran all our experiments on Ubuntu 16.04 with Python 3.6. The tool might work on similar versions but this was not tested
 
 
 After downloading and unzipping it, rename it as "codeql-home" and put it in the root path of this repo.
