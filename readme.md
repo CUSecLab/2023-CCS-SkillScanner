@@ -10,7 +10,7 @@ You can find our paper [here](https://arxiv.org/pdf/2309.05867.pdf). If you find
     year={2023}
 }
 
-In this repository, the folder "skillscanner" contains the code for skillscanner. "skills_code" contains one example skill code for testing. "user-study" folder includes the data about our user study. "results" folder contains the results in our work based on our dataset. The "image" folder contains some images for presentation.
+In this repository, the folder "skillscanner" contains the code for skillscanner. "skills_code" contains one example skill code for testing. "user-study" folder includes the data about our user study. "results" folder contains the results in our work based on our dataset. The "image" folder contains some images for presentation. "vscode-codeql-starter" includes CodeQL scripts for analyzing skills.
 
 
 
@@ -56,7 +56,10 @@ If you download a new dataset using "clone_repo.py", it will appear in "repo" fo
 python scan_skills.py repo 1
 ```
 
-The results will be in the folder "skillscanner/results" and each skill will have a folder for storing results. There will also be a report that summarizes all the results of the skill. The detailed results, such as different issues in code inconsistency will be saved in "results/skillname/code_inconsistency/issuename".
+The results will be in the folder "skillscanner/results" and each skill will have a folder for storing results.
+There will also be a report that summarizes all the results of the skill. 
+If a skill has been analyzed before and the report has been generated, the skill will be skipped.
+The detailed results, such as different issues in code inconsistency will be saved in "results/skillname/code_inconsistency/issuename".
 
 
 ### Dataset
