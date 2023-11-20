@@ -80,4 +80,4 @@ python summarize_results.py
 
 And issues of all skills will be in the "summary" folder.
 
-The Github commit hash for the artifact evaluation is 28ef6b98b6fa2802faaceab61d142212d65bda2c.
+The Github commit hash for the artifact evaluation is 2db238fe56b94750a773dd446cf1babaa03b2a52.
