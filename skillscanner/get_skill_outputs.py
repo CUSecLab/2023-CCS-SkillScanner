@@ -160,6 +160,7 @@ def separate_websites(websites):
 ## 500 rquests/day
 def get_malicious_html(html):
     malicious_htmls = []
+    api_key = open('tokens.txt').read().split('\n')[2][13:]
     for link in html:
         try:
             filename, link = link

@@ -94,7 +94,7 @@ def get_skill_data_collection_in_outputs(skill_name, outputs):
 
 # send outputs to perspective and check their toxicity
 def get_toxic_request(skill_name, outputs):
-    api_key = 'AIzaSyA7p5oAWAHcRsKWcKssRRdd11tqz848H_U'
+    api_key = open('tokens.txt').read().split('\n')[1][13:]
     url = ('https://commentanalyzer.googleapis.com/v1alpha1/comments:analyze' + '?key=' + api_key)
     if len(outputs) == 0:
         outputs = [['', ' ']]

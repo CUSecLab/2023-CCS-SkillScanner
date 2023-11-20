@@ -1,0 +1,3 @@
+ACCESS_TOKEN=<put your GitHub access token here>
+ACCESS_TOKEN=<put your Google Perspective access token here>
+ACCESS_TOKEN=<put your Virustotal access token here>
