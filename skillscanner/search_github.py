@@ -17,33 +17,34 @@ step = 1024
 start = 0
 end = start + step
 
-for i in range(0,100):
-    try:
-        query = 'interactionModel languageModel invocationName intents size:' + str(start) + '..' + str(end) +' filename:en-US.json language:JSON'
-        result = g.search_code(query, order='desc')
-        count = result.totalCount
-    except:
-        print("first part limit")
-        time.sleep(60)
-        continue
-    print(start, end, count)
-    if count == 1000:
-        step = int(step/2)
-        end = start + step
-        time.sleep(2)
-    else:
-        with open('alexa_links.txt', 'a') as f:
-            for j in result:
-                try:
-                    x = f.write(j.repository.html_url + '\n')
-                    time.sleep(2)
-                except:
-                    print("second part limit")
-                    time.sleep(60)
-                    x = f.write(j.repository.html_url + '\n')
-                    continue
-        start = end
-        end = start + step
+def search_github_skills():
+    for i in range(0,100):
+        try:
+            query = 'interactionModel languageModel invocationName intents size:' + str(start) + '..' + str(end) +' filename:en-US.json language:JSON'
+            result = g.search_code(query, order='desc')
+            count = result.totalCount
+        except:
+            print("first part limit")
+            time.sleep(60)
+            continue
+        print(start, end, count)
+        if count == 1000:
+            step = int(step/2)
+            end = start + step
+            time.sleep(2)
+        else:
+            with open('alexa_links.txt', 'a') as f:
+                for j in result:
+                    try:
+                        x = f.write(j.repository.html_url + '\n')
+                        time.sleep(2)
+                    except:
+                        print("second part limit")
+                        time.sleep(60)
+                        x = f.write(j.repository.html_url + '\n')
+                        continue
+            start = end
+            end = start + step
 
 
 
@@ -66,7 +67,8 @@ def search_github(keyword):
 
 if __name__ == '__main__':
     keyword = input('Enter keyword[e.g french, german etc]: ')
-    search_github(keyword)
+    search_github_skills()
+    #search_github(keyword)
 
 
 import validators
