@@ -34,6 +34,9 @@ python -m spacy download en_core_web_sm
 
 You need to download the CodeQL from [CodeQL](https://github.com/github/codeql-action/releases) to do the skill taint analysis.
 
+In our version, we used the CodeQL version v2.13.1. Our system version is Ubuntu 16.04 and the Python version is 3.6.
+
+
 After downloading and unzipping it, rename it as "codeql-home" and put it in the root path of this repo.
 
 If you want to scan/download skill code datasets from GitHub or analyze skill content/html safety, you need to apply for tokens about GitHub, Google Perspective, and Virustotal. Then you need to put them in the "tokens.txt" file in the "skillscanner" folder.
