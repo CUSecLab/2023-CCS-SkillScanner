@@ -1,6 +1,6 @@
 # SkillScanner: Detecting Policy-Violating Voice Applications Through Static Analysis at the Development Phase
 
-You can find our paper [here](https://arxiv.org/pdf/2309.05867.pdf). If you find our paper useful for you, please consider citing:
+You can find our paper [here](https://dl.acm.org/doi/pdf/10.1145/3576915.3616650). If you find our paper useful for you, please consider citing:
 
 
       @inproceedings{liao2023skillscanner,  
