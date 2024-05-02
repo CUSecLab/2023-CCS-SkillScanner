@@ -3,12 +3,14 @@
 You can find our paper [here](https://arxiv.org/pdf/2309.05867.pdf). If you find our paper useful for you, please consider citing:
 
 
-    @article{liao2023skillscanner,
-    title={SkillScanner: Detecting Policy-Violating Voice Applications Through Static Analysis at the Development Phase},
-    author={Liao, Song and Cheng, Long and Cai, Haipeng and Guo, Linke and Hu, Hongxin},
-    journal={arXiv preprint arXiv:2309.05867},
-    year={2023}
+      @inproceedings{liao2023skillscanner,  
+      title={SkillScanner: Detecting Policy-Violating Voice Applications Through Static Analysis at the Development Phase},
+      author={Liao, Song and Cheng, Long and Cai, Haipeng and Guo, Linke and Hu, Hongxin},
+      booktitle={Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security},
+      pages={2321--2335},
+      year={2023}
 }
+
 
 In this repository, the folder "skillscanner" contains the code for skillscanner. "skills_code" contains one example skill code for testing. "user-study" folder includes the data about our user study. "results" folder contains the results in our work based on our dataset. The "image" folder contains some images for presentation. "vscode-codeql-starter" includes CodeQL scripts for analyzing skills.
 
